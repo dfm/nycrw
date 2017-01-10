@@ -1,0 +1,6160 @@
+[
+    {
+        "address": "331 W Broadway, SoHo, New York, NY 10013",
+        "base_name": "Il Mulino Prime",
+        "categories": [
+            "Steakhouses",
+            "Italian"
+        ],
+        "id": "il-mulino-prime-new-york",
+        "name": "Il Mulino Prime",
+        "neighborhoods": [
+            "SoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 76
+    },
+    {
+        "address": "27 E 21st St, Flatiron, New York, NY 10010",
+        "base_name": "Giorgio's of Gramercy",
+        "categories": [
+            "Italian",
+            "American (New)"
+        ],
+        "id": "giorgios-of-gramercy-new-york",
+        "name": "Giorgio's of Gramercy",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 623
+    },
+    {
+        "address": "768 Madison Ave, Upper East Side, Manhattan, NY 10065",
+        "base_name": "Bar Italia",
+        "categories": [
+            "Italian"
+        ],
+        "id": "bar-italia-madison-manhattan",
+        "name": "Bar Italia Madison",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 87
+    },
+    {
+        "address": "40 W 53rd St, Midtown West, New York, NY 10019",
+        "base_name": "Fogo de Ch\u00e3o Churrascaria Brazilian Steakhouse",
+        "categories": [
+            "Brazilian",
+            "Steakhouses",
+            "Seafood"
+        ],
+        "id": "fogo-de-ch\u00e3o-brazilian-steakhouse-new-york-3",
+        "name": "Fogo de Ch\u00e3o Brazilian Steakhouse",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 582
+    },
+    {
+        "address": "105 Hudson St, TriBeCa, New York, NY 10013",
+        "base_name": "Nobu New York",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "nobu-new-york",
+        "name": "Nobu",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 1284
+    },
+    {
+        "address": "700 Fifth Ave At 55th St, Midtown West, New York, NY 10019",
+        "base_name": "Clement",
+        "categories": [
+            "American (New)",
+            "Diners",
+            "Buffets"
+        ],
+        "id": "clement-new-york-13",
+        "name": "Clement",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 87
+    },
+    {
+        "address": "60 Thompson St, South Village, New York, NY 10012",
+        "base_name": "Sessanta Ristorante",
+        "categories": [
+            "Italian",
+            "Desserts",
+            "Breakfast & Brunch"
+        ],
+        "id": "sessanta-ristorante-new-york",
+        "name": "Sessanta Ristorante",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 68
+    },
+    {
+        "address": "135 E 62nd St, Upper East Side, New York, NY 10065",
+        "base_name": "Tavern62 by David Burke",
+        "categories": [
+            "Steakhouses",
+            "American (Traditional)",
+            "Seafood"
+        ],
+        "id": "tavern62-by-david-burke-new-york",
+        "name": "Tavern62 By David Burke",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 21
+    },
+    {
+        "address": "8 W 58th St, Midtown West, New York, NY 10019",
+        "base_name": "Beautique",
+        "categories": [
+            "American (New)",
+            "Lounges"
+        ],
+        "id": "beautique-new-york-2",
+        "name": "Beautique",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 134
+    },
+    {
+        "address": "246 Spring St, South Village, New York, NY 10013",
+        "base_name": "Koi SoHo",
+        "categories": [
+            "Sushi Bars"
+        ],
+        "id": "koi-soho-new-york",
+        "name": "Koi SoHo",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 128
+    },
+    {
+        "address": "Metlife Building, 200 Park Ave, Midtown East, New York, NY 10166",
+        "base_name": "La Fonda Del Sol",
+        "categories": [
+            "Spanish",
+            "Tapas/Small Plates"
+        ],
+        "id": "la-fonda-del-sol-new-york",
+        "name": "La Fonda Del Sol",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 255
+    },
+    {
+        "address": "37 E 60th St, Upper East Side, New York, NY 10021",
+        "base_name": "Il Mulino New York (Uptown)",
+        "categories": [
+            "Italian"
+        ],
+        "id": "il-mulino-new-york-new-york-5",
+        "name": "Il Mulino New York",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 109
+    },
+    {
+        "address": "450 E 29th St, Stuyvesant Town, New York, NY 10016",
+        "base_name": "Riverpark",
+        "categories": [
+            "American (New)",
+            "Breakfast & Brunch",
+            "Venues & Event Spaces"
+        ],
+        "id": "riverpark-new-york",
+        "name": "Riverpark",
+        "neighborhoods": [
+            "Stuyvesant Town",
+            "Kips Bay"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 558
+    },
+    {
+        "address": "324 E 57th St, Midtown East, New York, NY 10022",
+        "base_name": "Mr. Chow New York - 57th Street",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "mr-chow-new-york",
+        "name": "Mr Chow",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 236
+    },
+    {
+        "address": "7 W 51st St, Midtown West, New York, NY 10019",
+        "base_name": "NYY Steak\u2014Manhattan",
+        "categories": [
+            "Steakhouses",
+            "American (Traditional)"
+        ],
+        "id": "nyy-steak-new-york-2",
+        "name": "NYY Steak",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 199
+    },
+    {
+        "address": "Rockefeller Ctr, Lower Level, Midtown West, New York, NY 10001",
+        "base_name": "Rock Center Caf\u00e9",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "rock-center-cafe-new-york",
+        "name": "Rock Center Cafe",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 315
+    },
+    {
+        "address": "1 W 67th St, Upper West Side, New York, NY 10023",
+        "base_name": "The Leopard at des Artistes",
+        "categories": [
+            "Italian"
+        ],
+        "id": "the-leopard-at-des-artistes-new-york",
+        "name": "The Leopard at des Artistes",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 153
+    },
+    {
+        "address": "120 Broadway, Financial District, New York, NY 10271",
+        "base_name": "The Capital Grille Wall Street",
+        "categories": [
+            "Seafood",
+            "Steakhouses",
+            "Wine Bars"
+        ],
+        "id": "the-capital-grille-new-york-3",
+        "name": "The Capital Grille",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 397
+    },
+    {
+        "address": "43 E 19th St, Flatiron, New York, NY 10003",
+        "base_name": "Craft Restaurant",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "craft-new-york",
+        "name": "Craft",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 801
+    },
+    {
+        "address": "47 West 38th St, Midtown West, New York, NY 10018",
+        "base_name": "Charlie Palmer Steak",
+        "categories": [
+            "Steakhouses",
+            "American (New)"
+        ],
+        "id": "charlie-palmer-steak-new-york-2",
+        "name": "Charlie Palmer Steak",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 111
+    },
+    {
+        "address": "259 W 19th St, Chelsea, New York, NY 10011",
+        "base_name": "Socarrat Paella Bar - Chelsea",
+        "categories": [
+            "Spanish",
+            "Tapas Bars",
+            "Tapas/Small Plates"
+        ],
+        "id": "socarrat-paella-bar-new-york-8",
+        "name": "Socarrat Paella Bar",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 924
+    },
+    {
+        "address": "Lincoln Ctr, 142 W 65th St, Upper West Side, New York, NY 10023",
+        "base_name": "Lincoln Ristorante",
+        "categories": [
+            "Italian"
+        ],
+        "id": "lincoln-ristorante-new-york",
+        "name": "Lincoln Ristorante",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 407
+    },
+    {
+        "address": "41 Murray St, TriBeCa, New York, NY 10007",
+        "base_name": "Rosa Mexicano\u2013Tribeca",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "rosa-mexicano-new-york-10",
+        "name": "Rosa Mexicano",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 53
+    },
+    {
+        "address": "99 Hudson St, TriBeCa, New York, NY 10013",
+        "base_name": "Tamarind Tribeca",
+        "categories": [
+            "Indian"
+        ],
+        "id": "tamarind-new-york-4",
+        "name": "Tamarind",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 563
+    },
+    {
+        "address": "1191 1st Ave, between 64th St & 65th St, Upper East Side, New York, NY 10065",
+        "base_name": "Maya",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "maya-new-york",
+        "name": "Maya",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 599
+    },
+    {
+        "address": "540 Lexington Ave, Midtown East, New York, NY 10022",
+        "base_name": "Bull and Bear Prime Steakhouse",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "bull-and-bear-steakhouse-new-york-2",
+        "name": "Bull & Bear Steakhouse",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 90
+    },
+    {
+        "address": "825 3rd Ave, Midtown East, New York, NY 10022",
+        "base_name": "Dos Caminos Third Avenue",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "dos-caminos-new-york-2",
+        "name": "Dos Caminos",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 1159
+    },
+    {
+        "address": "128 1st Ave, East Village, New York, NY 10009",
+        "base_name": "Noreetuh",
+        "categories": [
+            "American (New)",
+            "Hawaiian"
+        ],
+        "id": "noreetuh-new-york",
+        "name": "Noreetuh",
+        "neighborhoods": [
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 248
+    },
+    {
+        "address": "105 1st Ave, East Village, New York, NY 10003",
+        "base_name": "Empell\u00f3n Cocina",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "empellon-cocina-new-york",
+        "name": "Empellon Cocina",
+        "neighborhoods": [
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 258
+    },
+    {
+        "address": "363 Greenwich St, TriBeCa, New York, NY 10013",
+        "base_name": "American Cut\u2014Tribeca",
+        "categories": [
+            "Steakhouses",
+            "American (New)"
+        ],
+        "id": "american-cut-new-york",
+        "name": "American Cut",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 353
+    },
+    {
+        "address": "283 W 12th St, West Village, New York, NY 10014",
+        "base_name": "Blenheim",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "blenheim-new-york-3",
+        "name": "Blenheim",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 131
+    },
+    {
+        "address": "109 E 56th St, Midtown East, New York, NY 10022",
+        "base_name": "American Cut (Midtown)",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "american-cut-midtown-new-york",
+        "name": "American Cut Midtown",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 70
+    },
+    {
+        "address": "17 W 26th St, Flatiron, New York, NY 10010",
+        "base_name": "Maysville",
+        "categories": [
+            "American (New)",
+            "Whiskey Bars",
+            "Seafood"
+        ],
+        "id": "maysville-new-york",
+        "name": "Maysville",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 438
+    },
+    {
+        "address": "365 Park Ave S, Flatiron, New York, NY 10016",
+        "base_name": "Bread & Tulips",
+        "categories": [
+            "Pizza",
+            "Italian",
+            "Wine Bars"
+        ],
+        "id": "bread-and-tulips-new-york",
+        "name": "Bread & Tulips",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 176
+    },
+    {
+        "address": "36 E 20th St, Flatiron, New York, NY 10003",
+        "base_name": "Trattoria Il Mulino",
+        "categories": [
+            "Italian"
+        ],
+        "id": "trattoria-il-mulino-new-york",
+        "name": "Trattoria Il Mulino",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 142
+    },
+    {
+        "address": "647 E 11th St, East Village, New York, NY 10009",
+        "base_name": "Virginia's",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "virginias-new-york",
+        "name": "Virginia's",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 101
+    },
+    {
+        "address": "157 Duane St, TriBeCa, New York, NY 10013",
+        "base_name": "Khe-Yo",
+        "categories": [
+            "Thai",
+            "Laotian",
+            "Vietnamese"
+        ],
+        "id": "khe-yo-new-york",
+        "name": "Khe-Yo",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 430
+    },
+    {
+        "address": "200 E 60th St, Upper East Side, New York, NY 10022",
+        "base_name": "Anassa Taverna",
+        "categories": [
+            "Greek",
+            "Seafood",
+            "Mediterranean"
+        ],
+        "id": "anassa-taverna-new-york",
+        "name": "Anassa Taverna",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 182
+    },
+    {
+        "address": "536 E 5th St, East Village, New York, NY 10009",
+        "base_name": "Tuome",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "tuome-new-york-2",
+        "name": "Tuome",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 233
+    },
+    {
+        "address": "420 Park Ave S, Flatiron, New York, NY 10016",
+        "base_name": "Asellina",
+        "categories": [
+            "Italian",
+            "Breakfast & Brunch",
+            "Cocktail Bars"
+        ],
+        "id": "asellina-new-york",
+        "name": "Asellina",
+        "neighborhoods": [
+            "Flatiron",
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 293
+    },
+    {
+        "address": "284 Mulberry St, Nolita, New York, NY 10012",
+        "base_name": "Socarrat Paella Bar - Nolita",
+        "categories": [
+            "Spanish",
+            "Tapas Bars"
+        ],
+        "id": "socarrat-paella-bar-nolita-new-york-3",
+        "name": "Socarrat Paella Bar - Nolita",
+        "neighborhoods": [
+            "Nolita"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 334
+    },
+    {
+        "address": "1535 Broadway (8th Floor), New York Marriott Marquis, Theater District, New York, NY 10036",
+        "base_name": "Crossroads American Kitchen and Bar",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "crossroads-american-kitchen-and-bar-new-york",
+        "name": "Crossroads American Kitchen & Bar",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 47
+    },
+    {
+        "address": "145 Mulberry St, SoHo, New York, NY 10012",
+        "base_name": "Capri Ristorante",
+        "categories": [
+            "Italian",
+            "Seafood"
+        ],
+        "id": "capri-ristorante-new-york",
+        "name": "Capri Ristorante",
+        "neighborhoods": [
+            "SoHo"
+        ],
+        "price": "$$",
+        "rating": 2.5,
+        "review_count": 85
+    },
+    {
+        "address": "29 E 65th St, Upper East Side, New York, NY 10065",
+        "base_name": "Match 65 Brasserie",
+        "categories": [
+            "French",
+            "Burgers"
+        ],
+        "id": "match-65-new-york-2",
+        "name": "Match 65",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 113
+    },
+    {
+        "address": "105 Hudson St, TriBeCa, New York, NY 10013",
+        "base_name": "Nobu Next Door",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "nobu-new-york",
+        "name": "Nobu",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 1284
+    },
+    {
+        "address": "22 Orchard St, Chinatown, New York, NY 10002",
+        "base_name": "Fung Tu",
+        "categories": [
+            "Asian Fusion",
+            "Chinese"
+        ],
+        "id": "fung-tu-new-york",
+        "name": "Fung Tu",
+        "neighborhoods": [
+            "Chinatown",
+            "Lower East Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 157
+    },
+    {
+        "address": "2751 Broadway, Manhattan Valley, New York, NY 10025",
+        "base_name": "Smoke Jazz & Supper Club",
+        "categories": [
+            "Jazz & Blues",
+            "Music Venues",
+            "Soul Food"
+        ],
+        "id": "smoke-jazz-club-new-york",
+        "name": "Smoke Jazz Club",
+        "neighborhoods": [
+            "Manhattan Valley"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 265
+    },
+    {
+        "address": "206 W 118th St, Harlem, New York, NY 10026",
+        "base_name": "Minton\u2019s",
+        "categories": [
+            "Jazz & Blues",
+            "American (Traditional)",
+            "Bars"
+        ],
+        "id": "mintons-new-york",
+        "name": "Minton's",
+        "neighborhoods": [
+            "Harlem"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 109
+    },
+    {
+        "address": "400 5th Ave, 2nd level, Midtown West, New York, NY 10018",
+        "base_name": "Ai Fiori",
+        "categories": [
+            "Italian",
+            "French",
+            "Seafood"
+        ],
+        "id": "ai-fiori-new-york",
+        "name": "Ai Fiori",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 855
+    },
+    {
+        "address": "208 W 70th St, Upper West Side, New York, NY 10023",
+        "base_name": "Lincoln Square Steak",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "lincoln-square-steak-new-york",
+        "name": "Lincoln Square Steak",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 545
+    },
+    {
+        "address": "35 E 18th St, Flatiron, New York, NY 10003",
+        "base_name": "ABC Kitchen",
+        "categories": [
+            "American (New)",
+            "French"
+        ],
+        "id": "abc-kitchen-new-york",
+        "name": "ABC Kitchen",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 2308
+    },
+    {
+        "address": "320 Atlantic Ave, Boerum Hill, Boerum Hill, NY 11201",
+        "base_name": "French Louie",
+        "categories": [
+            "French"
+        ],
+        "id": "french-louie-boerum-hill",
+        "name": "French Louie",
+        "neighborhoods": [
+            "Boerum Hill"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 202
+    },
+    {
+        "address": "647 9th Ave, Theater District, New York, NY 10036",
+        "base_name": "Obao Hell's Kitchen",
+        "categories": [
+            "Vietnamese",
+            "Thai",
+            "Asian Fusion"
+        ],
+        "id": "obao-new-york-3",
+        "name": "OBAO",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 1090
+    },
+    {
+        "address": "570 10th Ave, Midtown West, New York, NY 10036",
+        "base_name": "Green Fig",
+        "categories": [
+            "Cocktail Bars",
+            "Middle Eastern",
+            "Mediterranean"
+        ],
+        "id": "green-fig-new-york-2",
+        "name": "Green Fig",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 25
+    },
+    {
+        "address": "237 W 54th St, Midtown West, New York, NY 10019",
+        "base_name": "Empire Steak House - West 54th Street",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "Breakfast & Brunch"
+        ],
+        "id": "empire-steak-house-new-york-9",
+        "name": "Empire Steak House",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 136
+    },
+    {
+        "address": "310 W 38th St, Midtown West, New York, NY 10018",
+        "base_name": "Casa Nonna",
+        "categories": [
+            "Italian"
+        ],
+        "id": "casa-nonna-new-york-2",
+        "name": "Casa Nonna",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 321
+    },
+    {
+        "address": "49 W 64th St, Upper West Side, New York, NY 10023",
+        "base_name": "Atlantic Grill at Lincoln Center",
+        "categories": [
+            "American (New)",
+            "Seafood",
+            "Sushi Bars"
+        ],
+        "id": "atlantic-grill-new-york-3",
+        "name": "Atlantic Grill",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 410
+    },
+    {
+        "address": "373 Park Ave S, Flatiron, New York, NY 10016",
+        "base_name": "Dos Caminos Park Avenue",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "dos-caminos-new-york-5",
+        "name": "Dos Caminos",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 917
+    },
+    {
+        "address": "6 W 24th St, Flatiron, New York, NY 10010",
+        "base_name": "Bo's Kitchen & Bar Room",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "bos-kitchen-and-bar-room-new-york-2",
+        "name": "Bo's Kitchen & Bar Room",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 237
+    },
+    {
+        "address": "355 W 14th St, Meatpacking District, New York, NY 10014",
+        "base_name": "Scarpetta",
+        "categories": [
+            "Italian"
+        ],
+        "id": "scarpetta-new-york",
+        "name": "Scarpetta",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village",
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1406
+    },
+    {
+        "address": "90 E 42nd St, Midtown East, New York, NY 10017",
+        "base_name": "Pershing Square",
+        "categories": [
+            "American (Traditional)",
+            "Breakfast & Brunch",
+            "Seafood"
+        ],
+        "id": "pershing-square-new-york",
+        "name": "Pershing Square",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 474
+    },
+    {
+        "address": "New York Marriott Marquis, 1535 Broadway, 47th & 48th Flr, Theater District, New York, NY 10036",
+        "base_name": "The View Restaurant & Lounge",
+        "categories": [
+            "Lounges",
+            "American (New)"
+        ],
+        "id": "the-view-restaurant-and-lounge-new-york",
+        "name": "The View Restaurant & Lounge",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 612
+    },
+    {
+        "address": "102 Ave C, East Village, New York, NY 10009",
+        "base_name": "Edi & the Wolf",
+        "categories": [
+            "German"
+        ],
+        "id": "edi-and-the-wolf-new-york",
+        "name": "Edi & the Wolf",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 355
+    },
+    {
+        "address": "160 E 46th St, Midtown East, New York, NY 10017",
+        "base_name": "Aretsky's Patroon",
+        "categories": [
+            "American (Traditional)",
+            "Steakhouses"
+        ],
+        "id": "aretskys-patroon-new-york",
+        "name": "Aretsky's Patroon",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 155
+    },
+    {
+        "address": "10 E 48th St, Midtown East, New York, NY 10017",
+        "base_name": "Morton's The Steakhouse\u2014Manhattan",
+        "categories": [
+            "Steakhouses",
+            "Kosher",
+            "American (Traditional)"
+        ],
+        "id": "wolf-and-lamb-steakhouse-new-york",
+        "name": "Wolf & Lamb Steakhouse",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 121
+    },
+    {
+        "address": "26 E 64th St, Upper East Side, New York, NY 10065",
+        "base_name": "Altesi Ristorante",
+        "categories": [
+            "Italian",
+            "Wine Bars"
+        ],
+        "id": "altesi-ristorante-new-york",
+        "name": "Altesi Ristorante",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 27
+    },
+    {
+        "address": "359 6th Ave, West Village, New York, NY 10014",
+        "base_name": "Tertulia",
+        "categories": [
+            "Spanish",
+            "Tapas Bars"
+        ],
+        "id": "tertulia-new-york",
+        "name": "Tertulia",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 353
+    },
+    {
+        "address": "176 8th Ave, Chelsea, New York, NY 10011",
+        "base_name": "Haru Chelsea",
+        "categories": [
+            "Sushi Bars"
+        ],
+        "id": "haru-new-york-7",
+        "name": "Haru",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 24
+    },
+    {
+        "address": "475 W Broadway, SoHo, New York, NY 10012",
+        "base_name": "Dos Caminos SoHo",
+        "categories": [
+            "Mexican",
+            "Bars"
+        ],
+        "id": "dos-caminos-new-york-4",
+        "name": "Dos Caminos",
+        "neighborhoods": [
+            "SoHo"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 746
+    },
+    {
+        "address": "505 Columbus Ave, Upper West Side, New York, NY 10024",
+        "base_name": "Kefi",
+        "categories": [
+            "Greek",
+            "Mediterranean",
+            "Tapas/Small Plates"
+        ],
+        "id": "kefi-new-york-2",
+        "name": "Kefi",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 1238
+    },
+    {
+        "address": "347 E 54th St, Midtown East, New York, NY 10022",
+        "base_name": "Sutton Inn",
+        "categories": [
+            "American (New)",
+            "Desserts"
+        ],
+        "id": "sutton-inn-new-york",
+        "name": "Sutton Inn",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 73
+    },
+    {
+        "address": "86 W 3rd St, Greenwich Village, New York, NY 10012",
+        "base_name": "Il Mulino New York (Downtown)",
+        "categories": [
+            "Italian"
+        ],
+        "id": "il-mulino-new-york-5",
+        "name": "Il Mulino",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 414
+    },
+    {
+        "address": "890 2nd Ave, Midtown East, New York, NY 10017",
+        "base_name": "Chazz Palminteri Ristorante Italiano",
+        "categories": [
+            "Italian"
+        ],
+        "id": "chazz-palminteri-ristorante-italiano-new-york",
+        "name": "Chazz Palminteri Ristorante Italiano",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 52
+    },
+    {
+        "address": "120 W 55th St, Midtown West, New York, NY 10019",
+        "base_name": "Circo",
+        "categories": [
+            "Italian"
+        ],
+        "id": "circo-new-york",
+        "name": "Circo",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 188
+    },
+    {
+        "address": "265 Lafayette St, SoHo, New York, NY 10012",
+        "base_name": "Sant Ambroeus SoHo",
+        "categories": [
+            "Coffee & Tea",
+            "Italian",
+            "Desserts"
+        ],
+        "id": "sant-ambroeus-new-york-3",
+        "name": "Sant Ambroeus",
+        "neighborhoods": [
+            "SoHo",
+            "Nolita"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 62
+    },
+    {
+        "address": "320 West 46th St, Theater District, New York, NY 10036",
+        "base_name": "Frankie & Johnnie's Steakhouse\u201446th Street",
+        "categories": [
+            "Steakhouses",
+            "Pubs",
+            "Wine Bars"
+        ],
+        "id": "frankie-and-johnnies-steakhouse-new-york-4",
+        "name": "Frankie & Johnnie's Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 161
+    },
+    {
+        "address": "Empire State Building, 350 5th Ave, Midtown West, New York, NY 10118",
+        "base_name": "State Grill and Bar",
+        "categories": [
+            "Bars",
+            "American (New)"
+        ],
+        "id": "state-grill-and-bar-new-york",
+        "name": "State Grill and Bar",
+        "neighborhoods": [
+            "Midtown West",
+            "Koreatown"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 77
+    },
+    {
+        "address": "220 Park Ave S, Flatiron, New York, NY 10003",
+        "base_name": "Haru Gramercy Park",
+        "categories": [
+            "Sushi Bars"
+        ],
+        "id": "haru-sushi-new-york-6",
+        "name": "Haru Sushi",
+        "neighborhoods": [
+            "Flatiron",
+            "Union Square"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 321
+    },
+    {
+        "address": "339 Greenwich St, TriBeCa, New York, NY 10013",
+        "base_name": "Sarabeth's Tribeca",
+        "categories": [
+            "Breakfast & Brunch",
+            "American (Traditional)"
+        ],
+        "id": "sarabeths-tribeca-new-york",
+        "name": "Sarabeth's Tribeca",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 497
+    },
+    {
+        "address": "352 W 44th St, Theater District, New York, NY 10036",
+        "base_name": "Etcetera Etcetera",
+        "categories": [
+            "Italian",
+            "Venues & Event Spaces",
+            "Gluten-Free"
+        ],
+        "id": "etcetera-etcetera-new-york",
+        "name": "Etcetera Etcetera",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 331
+    },
+    {
+        "address": "31 Union Sq W, Flatiron, New York, NY 10003",
+        "base_name": "Blue Water Grill",
+        "categories": [
+            "Seafood",
+            "Sushi Bars"
+        ],
+        "id": "blue-water-grill-new-york",
+        "name": "Blue Water Grill",
+        "neighborhoods": [
+            "Flatiron",
+            "Union Square"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1243
+    },
+    {
+        "address": "The W Hotel, 201 Park Ave S, Flatiron, New York, NY 10003",
+        "base_name": "Irvington",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "irvington-new-york",
+        "name": "Irvington",
+        "neighborhoods": [
+            "Flatiron",
+            "Union Square",
+            "Gramercy"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 90
+    },
+    {
+        "address": "146 Essex St, Lower East Side, New York, NY 10002",
+        "base_name": "Beauty & Essex",
+        "categories": [
+            "Bars",
+            "American (New)",
+            "Tapas/Small Plates"
+        ],
+        "id": "beauty-and-essex-new-york",
+        "name": "Beauty & Essex",
+        "neighborhoods": [
+            "Lower East Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 2256
+    },
+    {
+        "address": "1063 1st Ave, Midtown East, New York, NY 10022",
+        "base_name": "Rosa Mexicano\u2014First Avenue",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "rosa-mexicano-new-york-5",
+        "name": "Rosa Mexicano",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 400
+    },
+    {
+        "address": "120 E 56th St, Midtown East, New York, NY 10022",
+        "base_name": "Montebello Restaurant",
+        "categories": [
+            "Italian",
+            "Bars"
+        ],
+        "id": "montebello-ristorante-italiano-new-york",
+        "name": "Montebello Ristorante Italiano",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 69
+    },
+    {
+        "address": "871 7th Ave, Midtown West, New York, NY 10019",
+        "base_name": "Molyvos Restaurant",
+        "categories": [
+            "Greek",
+            "Mediterranean"
+        ],
+        "id": "molyvos-new-york",
+        "name": "Molyvos",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 354
+    },
+    {
+        "address": "430 Lafayette St, Ste A, NoHo, New York, NY 10003",
+        "base_name": "Indochine",
+        "categories": [
+            "Vietnamese",
+            "French"
+        ],
+        "id": "indochine-new-york",
+        "name": "Indochine",
+        "neighborhoods": [
+            "NoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 280
+    },
+    {
+        "address": "1567 Broadway, Theater District, New York, NY 10036",
+        "base_name": "Dos Caminos Times Square",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "dos-caminos-new-york-7",
+        "name": "Dos Caminos",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 171
+    },
+    {
+        "address": "19 West 49th St., Midtown West, New York, NY 10020",
+        "base_name": "The Sea Grill",
+        "categories": [
+            "Seafood",
+            "American (New)"
+        ],
+        "id": "the-sea-grill-new-york",
+        "name": "The Sea Grill",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 245
+    },
+    {
+        "address": "557 Lexington Ave, Midtown East, New York, NY 10022",
+        "base_name": "The National Bar & Dining Rooms",
+        "categories": [
+            "American (New)",
+            "Breakfast & Brunch",
+            "Brasseries"
+        ],
+        "id": "the-national-bar-and-dining-rooms-new-york-2",
+        "name": "The National Bar and Dining Rooms",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 496
+    },
+    {
+        "address": "633 3rd Ave, Murray Hill, New York, NY 10017",
+        "base_name": "Docks Oyster Bar",
+        "categories": [
+            "Seafood",
+            "Bars"
+        ],
+        "id": "docks-oyster-bar-and-seafood-grill-new-york",
+        "name": "Docks Oyster Bar and Seafood Grill",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 406
+    },
+    {
+        "address": "142 Mercer St, SoHo, New York, NY 10012",
+        "base_name": "Lure Fishbar",
+        "categories": [
+            "Seafood"
+        ],
+        "id": "lure-fishbar-new-york",
+        "name": "Lure Fishbar",
+        "neighborhoods": [
+            "SoHo"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1264
+    },
+    {
+        "address": "111 N 12th St, The William Vale Hotel, Williamsburg - North Side, Brooklyn, NY 11249",
+        "base_name": "Leuca",
+        "categories": [
+            "Italian",
+            "Pasta Shops",
+            "Pizza"
+        ],
+        "id": "leuca-brooklyn",
+        "name": "Leuca",
+        "neighborhoods": [
+            "Williamsburg - North Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 29
+    },
+    {
+        "address": "323 W Broadway, SoHo, New York, NY 10013",
+        "base_name": "Mamo Restaurant",
+        "categories": [
+            "Italian",
+            "French"
+        ],
+        "id": "mamo-restaurant-new-york",
+        "name": "MAMO Restaurant",
+        "neighborhoods": [
+            "SoHo",
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 121
+    },
+    {
+        "address": "110 W 51st St, Theater District, New York, NY 10020",
+        "base_name": "Ted's Montana Grill",
+        "categories": [
+            "Steakhouses",
+            "Burgers",
+            "American (Traditional)"
+        ],
+        "id": "teds-montana-grill-new-york",
+        "name": "Ted's Montana Grill",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 279
+    },
+    {
+        "address": "320 West 46th St, Theater District, New York, NY 10036",
+        "base_name": "Morton's The Steakhouse\u2014World Trade Center",
+        "categories": [
+            "Steakhouses",
+            "Pubs",
+            "Wine Bars"
+        ],
+        "id": "frankie-and-johnnies-steakhouse-new-york-4",
+        "name": "Frankie & Johnnie's Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 161
+    },
+    {
+        "address": "Macy's 6th Floor - 35th Broadway Entrance, 151 W 34th St, Midtown West, New York, NY 10001",
+        "base_name": "Stella 34 Trattoria",
+        "categories": [
+            "Italian",
+            "Pizza",
+            "Cocktail Bars"
+        ],
+        "id": "stella-34-trattoria-new-york",
+        "name": "Stella 34 Trattoria",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 449
+    },
+    {
+        "address": "423 Amsterdam Ave, Upper West Side, New York, NY 10024",
+        "base_name": "Sarabeth's Upper West Side",
+        "categories": [
+            "Breakfast & Brunch",
+            "American (Traditional)"
+        ],
+        "id": "sarabeths-west-new-york",
+        "name": "Sarabeth's West",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 740
+    },
+    {
+        "address": "100 E 63rd St, Upper East Side, New York, NY 10065",
+        "base_name": "Vaucluse",
+        "categories": [
+            "French"
+        ],
+        "id": "vaucluse-new-york",
+        "name": "Vaucluse",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 95
+    },
+    {
+        "address": "120 Essex St, Lower East Side, New York, NY 10002",
+        "base_name": "Essex",
+        "categories": [
+            "Bars",
+            "American (New)"
+        ],
+        "id": "essex-new-york",
+        "name": "Essex",
+        "neighborhoods": [
+            "Lower East Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 1570
+    },
+    {
+        "address": "1196 Broadway, Flatiron, New York, NY 10001",
+        "base_name": "The John Dory Oyster Bar",
+        "categories": [
+            "Seafood",
+            "Pubs"
+        ],
+        "id": "the-john-dory-oyster-bar-new-york",
+        "name": "The John Dory Oyster Bar",
+        "neighborhoods": [
+            "Flatiron",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 494
+    },
+    {
+        "address": "Sofitel Luxury Hotel, 44 W 45th St, Midtown West, New York, NY 10036",
+        "base_name": "Gaby Brasserie Fran\u00e7aise",
+        "categories": [
+            "French",
+            "Modern European",
+            "Bars"
+        ],
+        "id": "gaby-new-york-2",
+        "name": "Gaby",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 64
+    },
+    {
+        "address": "1 Little W 12th St, Meatpacking District, New York, NY 10014",
+        "base_name": "Bagatelle",
+        "categories": [
+            "French",
+            "Lounges"
+        ],
+        "id": "bagatelle-new-york-2",
+        "name": "Bagatelle",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 350
+    },
+    {
+        "address": "1133 Broadway, Flatiron, New York, NY 10010",
+        "base_name": "La Pecora Bianca",
+        "categories": [
+            "Italian",
+            "Salad"
+        ],
+        "id": "la-pecora-bianca-new-york",
+        "name": "La Pecora Bianca",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 212
+    },
+    {
+        "address": "236 5th Ave, Flatiron, New York, NY 10001",
+        "base_name": "ilili Restaurant",
+        "categories": [
+            "Mediterranean",
+            "Lebanese"
+        ],
+        "id": "ilili-new-york-2",
+        "name": "ilili",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1809
+    },
+    {
+        "address": "24 E 39th St, Midtown East, New York, NY 10016",
+        "base_name": "The Shakespeare",
+        "categories": [
+            "Pubs",
+            "British"
+        ],
+        "id": "the-shakespeare-new-york",
+        "name": "The Shakespeare",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 231
+    },
+    {
+        "address": "337 W 14th St, Meatpacking District, New York, NY 10014",
+        "base_name": "Mulino a Vino",
+        "categories": [
+            "Italian",
+            "Wine Bars"
+        ],
+        "id": "mulino-a-vino-new-york-2",
+        "name": "Mulino a Vino",
+        "neighborhoods": [
+            "Meatpacking District",
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 121
+    },
+    {
+        "address": "199 Bowery, Lower East Side, New York, NY 10002",
+        "base_name": "Vandal",
+        "categories": [
+            "Tapas Bars",
+            "Lounges"
+        ],
+        "id": "vandal-new-york",
+        "name": "Vandal",
+        "neighborhoods": [
+            "Lower East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 516
+    },
+    {
+        "address": "Macy's Herald Sq, 151 W 34th St, Lower Level, Midtown West, New York, NY 10001",
+        "base_name": "Rowland's Bar & Grill",
+        "categories": [
+            "Bars",
+            "American (Traditional)"
+        ],
+        "id": "rowlands-bar-and-grill-new-york-3",
+        "name": "Rowland's Bar & Grill",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 26
+    },
+    {
+        "address": "45 Rockerfeller Plz, Midtown West, New York, NY 10111",
+        "base_name": "Limani",
+        "categories": [
+            "Mediterranean",
+            "Seafood"
+        ],
+        "id": "limani-new-york",
+        "name": "Limani",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 176
+    },
+    {
+        "address": "558 Broome St, South Village, New York, NY 10013",
+        "base_name": "La Sirene",
+        "categories": [
+            "French"
+        ],
+        "id": "la-sirene-new-york",
+        "name": "La Sirene",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 1311
+    },
+    {
+        "address": "Millenium Hilton, 55 Church St, TriBeCa, New York, NY 10007",
+        "base_name": "Church & Dey",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "church-and-dey-new-york",
+        "name": "Church & Dey",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$",
+        "rating": 2.5,
+        "review_count": 16
+    },
+    {
+        "address": "40 Avenue B, East Village, New York, NY 10009",
+        "base_name": "Fonda",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "fonda-new-york-2",
+        "name": "Fonda",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 514
+    },
+    {
+        "address": "316 W 49th St, Theater District, New York, NY 10019",
+        "base_name": "Churrascaria Plataforma Brazilian Steakhouse",
+        "categories": [
+            "Brazilian",
+            "Steakhouses",
+            "American (Traditional)"
+        ],
+        "id": "churrascaria-plataforma-new-york-3",
+        "name": "Churrascaria Plataforma",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 1010
+    },
+    {
+        "address": "16 W 29th St, Flatiron, New York, NY 10001",
+        "base_name": "The Breslin Bar & Dining Room",
+        "categories": [
+            "Pubs",
+            "Gastropubs",
+            "Breakfast & Brunch"
+        ],
+        "id": "the-breslin-bar-and-dining-room-new-york",
+        "name": "The Breslin Bar & Dining Room",
+        "neighborhoods": [
+            "Flatiron",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1316
+    },
+    {
+        "address": "87 7th Ave S, West Village, New York, NY 10014",
+        "base_name": "SushiSamba West Village",
+        "categories": [
+            "Japanese",
+            "Brazilian",
+            "Peruvian"
+        ],
+        "id": "sushisamba-west-village-new-york-4",
+        "name": "SUSHISAMBA West Village",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1056
+    },
+    {
+        "address": "261 Madison Ave, Midtown East, New York, NY 10016",
+        "base_name": "Zuma",
+        "categories": [
+            "Sushi Bars",
+            "Japanese",
+            "Breakfast & Brunch"
+        ],
+        "id": "zuma-new-york-new-york",
+        "name": "Zuma New York",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 335
+    },
+    {
+        "address": "21 W 52nd St, Midtown West, New York, NY 10019",
+        "base_name": "'21' Club",
+        "categories": [
+            "American (Traditional)",
+            "Venues & Event Spaces",
+            "Diners"
+        ],
+        "id": "21-club-new-york",
+        "name": "21 Club",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 477
+    },
+    {
+        "address": "21 Ninth Avenue, Meatpacking District, New York, NY 10014",
+        "base_name": "Catch NYC",
+        "categories": [
+            "Asian Fusion",
+            "Sushi Bars",
+            "Seafood"
+        ],
+        "id": "catch-new-york-3",
+        "name": "Catch",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 1033
+    },
+    {
+        "address": "259 W 4th St, West Village, New York, NY 10014",
+        "base_name": "Sant Ambroeus\u2014West Village",
+        "categories": [
+            "Italian",
+            "Desserts",
+            "Coffee & Tea"
+        ],
+        "id": "sant-ambroeus-new-york-2",
+        "name": "Sant Ambroeus",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 179
+    },
+    {
+        "address": "49 W 44th St, Midtown West, New York, NY 10036",
+        "base_name": "Triomphe Restaurant",
+        "categories": [
+            "French",
+            "American (New)"
+        ],
+        "id": "triomphe-new-york-2",
+        "name": "Triomphe",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 109
+    },
+    {
+        "address": "135 W 42nd St, Theater District, New York, NY 10036",
+        "base_name": "Aureole - Liberty Room",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "aureole-new-york",
+        "name": "Aureole",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 649
+    },
+    {
+        "address": "W Hotel Times Square, 1567 Broadway, Theater District, New York, NY 10036",
+        "base_name": "Blue Fin",
+        "categories": [
+            "Sushi Bars",
+            "Seafood"
+        ],
+        "id": "blue-fin-new-york",
+        "name": "Blue Fin",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 759
+    },
+    {
+        "address": "42 E 58th St, Midtown East, New York, NY 10022",
+        "base_name": "Tao Uptown",
+        "categories": [
+            "Asian Fusion",
+            "Chinese",
+            "Sushi Bars"
+        ],
+        "id": "tao-new-york-2",
+        "name": "TAO",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1900
+    },
+    {
+        "address": "415 Lafayette St, NoHo, New York, NY 10003",
+        "base_name": "Asia de Cuba",
+        "categories": [
+            "Cuban",
+            "Latin American",
+            "Asian Fusion"
+        ],
+        "id": "asia-de-cuba-new-york-2",
+        "name": "Asia de Cuba",
+        "neighborhoods": [
+            "NoHo"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 181
+    },
+    {
+        "address": "27 W 24th St, Flatiron, New York, NY 10010",
+        "base_name": "Junoon",
+        "categories": [
+            "Indian",
+            "Desserts",
+            "Wine Bars"
+        ],
+        "id": "junoon-new-york",
+        "name": "Junoon",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 978
+    },
+    {
+        "address": "Grand Central Terminal, 23 E Vanderbilt Ave, Midtown East, New York, NY 10017",
+        "base_name": "Michael Jordan's The Steak House N.Y.C.",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "michael-jordans-the-steak-house-nyc-new-york",
+        "name": "Michael Jordan's The Steak House NYC",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 346
+    },
+    {
+        "address": "227 10th Ave, Chelsea, New York, NY 10011",
+        "base_name": "The Red Cat",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "the-red-cat-new-york",
+        "name": "The Red Cat",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 592
+    },
+    {
+        "address": "29 7th Ave S, West Village, New York, NY 10014",
+        "base_name": "La Loteria",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "la-loteria-new-york",
+        "name": "La Loteria",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 169
+    },
+    {
+        "address": "45 Rockefeller Plz, Midtown West, New York, NY 10111",
+        "base_name": "Brasserie Ruhlmann",
+        "categories": [
+            "French",
+            "Brasseries"
+        ],
+        "id": "brasserie-ruhlmann-new-york",
+        "name": "Brasserie Ruhlmann",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 194
+    },
+    {
+        "address": "124 W 57th St, Midtown West, New York, NY 10019",
+        "base_name": "Kingside",
+        "categories": [
+            "Cocktail Bars",
+            "American (New)"
+        ],
+        "id": "kingside-new-york",
+        "name": "Kingside",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 168
+    },
+    {
+        "address": "92 9th Ave, Chelsea, New York, NY 10011",
+        "base_name": "Tao Downtown",
+        "categories": [
+            "Lounges",
+            "Asian Fusion"
+        ],
+        "id": "tao-downtown-new-york-2",
+        "name": "Tao Downtown",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 577
+    },
+    {
+        "address": "252 W 47th St, Theater District, New York, NY 10036",
+        "base_name": "Glass House Tavern",
+        "categories": [
+            "American (New)",
+            "American (Traditional)"
+        ],
+        "id": "glass-house-tavern-new-york",
+        "name": "Glass House Tavern",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 222
+    },
+    {
+        "address": "15 Gold St, Financial District, New York, NY 10038",
+        "base_name": "Felice 15 Gold Street",
+        "categories": [
+            "Italian",
+            "Wine Bars"
+        ],
+        "id": "felice-15-gold-street-new-york-2",
+        "name": "Felice 15 Gold Street",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 147
+    },
+    {
+        "address": "53 Stone St, Financial District, New York, NY 10004",
+        "base_name": "Sm\u00f6rg\u00e5s Chef",
+        "categories": [
+            "Scandinavian"
+        ],
+        "id": "smorgas-chef-new-york-6",
+        "name": "Smorgas Chef",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 256
+    },
+    {
+        "address": "149 E 57th St, Midtown East, New York, NY 10022",
+        "base_name": "Le Colonial",
+        "categories": [
+            "French",
+            "Vietnamese",
+            "Lounges"
+        ],
+        "id": "le-colonial-new-york",
+        "name": "Le Colonial",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 196
+    },
+    {
+        "address": "23 Grand St, South Village, New York, NY 10013",
+        "base_name": "David Burke Kitchen",
+        "categories": [
+            "American (New)",
+            "Steakhouses"
+        ],
+        "id": "david-burke-kitchen-new-york",
+        "name": "David Burke Kitchen",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 994
+    },
+    {
+        "address": "19 W 44th St, Midtown West, New York, NY 10036",
+        "base_name": "Kellari Taverna",
+        "categories": [
+            "Greek",
+            "Mediterranean",
+            "Seafood"
+        ],
+        "id": "kellari-taverna-new-york",
+        "name": "Kellari Taverna",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 404
+    },
+    {
+        "address": "120 W 51st St, Theater District, New York, NY 10020",
+        "base_name": "The Capital Grille Time Life",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "Wine Bars"
+        ],
+        "id": "the-capital-grille-new-york-2",
+        "name": "The Capital Grille",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 557
+    },
+    {
+        "address": "The Metlife Building, 200 Park Ave, Midtown East, New York, NY 10166",
+        "base_name": "Naples 45 Ristorante e Pizzeria",
+        "categories": [
+            "Pizza",
+            "Italian"
+        ],
+        "id": "naples-45-new-york",
+        "name": "Naples 45",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 279
+    },
+    {
+        "address": "250 Park Ave S, Flatiron, New York, NY 10003",
+        "base_name": "Barbounia",
+        "categories": [
+            "Greek",
+            "Mediterranean",
+            "Breakfast & Brunch"
+        ],
+        "id": "barbounia-new-york",
+        "name": "Barbounia",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 876
+    },
+    {
+        "address": "517 Lexington Ave, Midtown East, New York, NY 10017",
+        "base_name": "Lexington Brass",
+        "categories": [
+            "American (Traditional)",
+            "Gluten-Free",
+            "Breakfast & Brunch"
+        ],
+        "id": "lexington-brass-new-york",
+        "name": "Lexington Brass",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 580
+    },
+    {
+        "address": "1593 1st Ave, Upper East Side, New York, NY 10028",
+        "base_name": "Felice 83",
+        "categories": [
+            "Wine Bars",
+            "Italian"
+        ],
+        "id": "felice-83-new-york",
+        "name": "Felice 83",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 136
+    },
+    {
+        "address": "928 Broadway, Flatiron, New York, NY 10010",
+        "base_name": "Obic\u00e0 Mozzarella Bar Pizza e Cucina",
+        "categories": [
+            "Italian",
+            "Wine Bars",
+            "Cocktail Bars"
+        ],
+        "id": "obic\u00e0-mozzarella-bar-pizza-e-cucina-new-york-3",
+        "name": "Obic\u00e0 Mozzarella Bar, Pizza e Cucina",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 243
+    },
+    {
+        "address": "359 Columbus Ave, Upper West Side, New York, NY 10024",
+        "base_name": "Isabella's",
+        "categories": [
+            "American (New)",
+            "American (Traditional)"
+        ],
+        "id": "isabellas-new-york",
+        "name": "Isabella's",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 740
+    },
+    {
+        "address": "321 W 46th St, Theater District, New York, NY 10036",
+        "base_name": "Barbetta",
+        "categories": [
+            "Italian",
+            "American (New)"
+        ],
+        "id": "barbetta-new-york",
+        "name": "Barbetta",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 157
+    },
+    {
+        "address": "303 Madison Ave, Midtown East, New York, NY 10017",
+        "base_name": "Pera Mediterranean Brasserie",
+        "categories": [
+            "Turkish",
+            "Mediterranean",
+            "Middle Eastern"
+        ],
+        "id": "pera-mediterranean-brasserie-new-york",
+        "name": "Pera Mediterranean Brasserie",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 323
+    },
+    {
+        "address": "154 Central Park South, JW Marriott Essex House New York, Midtown West, New York, NY 10019",
+        "base_name": "Southgate Bar & Restaurant",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "southgate-bar-and-restaurant-new-york-4",
+        "name": "SOUTHGATE Bar & Restaurant",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 141
+    },
+    {
+        "address": "6 Times Square, Theater District, New York, NY 10037",
+        "base_name": "Charlie Palmer at the Knick",
+        "categories": [
+            "American (New)",
+            "Steakhouses"
+        ],
+        "id": "charlie-palmer-at-the-knick-new-york-2",
+        "name": "Charlie Palmer at the Knick",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 24
+    },
+    {
+        "address": "10 E 16th St, Flatiron, New York, NY 10003",
+        "base_name": "City Crab Shack",
+        "categories": [
+            "Seafood",
+            "Live/Raw Food"
+        ],
+        "id": "city-crab-shack-new-york-2",
+        "name": "City Crab Shack",
+        "neighborhoods": [
+            "Flatiron",
+            "Union Square"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 142
+    },
+    {
+        "address": "61 Columbus Ave, Upper West Side, New York, NY 10023",
+        "base_name": "Rosa Mexicano\u2014Lincoln Center",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "rosa-mexicano-new-york-6",
+        "name": "Rosa Mexicano",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 865
+    },
+    {
+        "address": "12 E 32nd St, Midtown East, New York, NY 10016",
+        "base_name": "HanGawi",
+        "categories": [
+            "Vegetarian",
+            "Korean",
+            "Vegan"
+        ],
+        "id": "hangawi-new-york",
+        "name": "Hangawi",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 839
+    },
+    {
+        "address": "22 Warren St, TriBeCa, New York, NY 10007",
+        "base_name": "Gran Morsi",
+        "categories": [
+            "Italian"
+        ],
+        "id": "gran-morsi-new-york",
+        "name": "Gran Morsi",
+        "neighborhoods": [
+            "TriBeCa",
+            "Civic Center"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 167
+    },
+    {
+        "address": "99 Stanton St, Lower East Side, New York, NY 10002",
+        "base_name": "The Stanton Social",
+        "categories": [
+            "Breakfast & Brunch",
+            "Tapas/Small Plates",
+            "Lounges"
+        ],
+        "id": "the-stanton-social-new-york",
+        "name": "The Stanton Social",
+        "neighborhoods": [
+            "Lower East Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 2442
+    },
+    {
+        "address": "60 West 53rd St, Midtown West, New York, NY 10019",
+        "base_name": "China Grill",
+        "categories": [
+            "Asian Fusion",
+            "Breakfast & Brunch",
+            "Szechuan"
+        ],
+        "id": "china-grill-new-york",
+        "name": "China Grill",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 436
+    },
+    {
+        "address": "226 W 79th St, Upper West Side, New York, NY 10024",
+        "base_name": "Burke & Wills",
+        "categories": [
+            "Australian",
+            "Bars"
+        ],
+        "id": "burke-and-wills-new-york",
+        "name": "Burke & Wills",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 269
+    },
+    {
+        "address": "325 Bowery, NoHo, New York, NY 10003",
+        "base_name": "Bar Primi",
+        "categories": [
+            "Italian",
+            "Pasta Shops"
+        ],
+        "id": "bar-primi-new-york-3",
+        "name": "Bar Primi",
+        "neighborhoods": [
+            "NoHo",
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 331
+    },
+    {
+        "address": "New York Times Bldg, 231 W 40th St, Theater District, New York, NY 10018",
+        "base_name": "Inakaya New York",
+        "categories": [
+            "Japanese",
+            "Sushi Bars"
+        ],
+        "id": "inakaya-new-york",
+        "name": "Inakaya",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 380
+    },
+    {
+        "address": "675 Hudson St, Meatpacking District, New York, NY 10014",
+        "base_name": "Dos Caminos Meatpacking District",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "dos-caminos-new-york-3",
+        "name": "Dos Caminos",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 735
+    },
+    {
+        "address": "236 W 52nd St, Theater District, New York, NY 10019",
+        "base_name": "Victor's Cafe",
+        "categories": [
+            "Cuban",
+            "Tapas Bars",
+            "Lounges"
+        ],
+        "id": "victors-cafe-new-york-6",
+        "name": "Victor's Cafe",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1007
+    },
+    {
+        "address": "145 E 39th St, Murray Hill, New York, NY 10016",
+        "base_name": "Salvation Taco",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "salvation-taco-new-york",
+        "name": "Salvation Taco",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 560
+    },
+    {
+        "address": "375 Greenwich St, TriBeCa, New York, NY 10013",
+        "base_name": "Tribeca Grill",
+        "categories": [
+            "American (New)",
+            "Bars"
+        ],
+        "id": "tribeca-grill-new-york-2",
+        "name": "Tribeca Grill",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 492
+    },
+    {
+        "address": "524 Court St, Carroll Gardens, Brooklyn, NY 11231",
+        "base_name": "Buttermilk Channel",
+        "categories": [
+            "American (New)",
+            "Breakfast & Brunch"
+        ],
+        "id": "buttermilk-channel-brooklyn",
+        "name": "Buttermilk Channel",
+        "neighborhoods": [
+            "Carroll Gardens"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 1461
+    },
+    {
+        "address": "257 6th Ave, West Village, New York, NY 10014",
+        "base_name": "El Toro Blanco",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "el-toro-blanco-new-york",
+        "name": "El Toro Blanco",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 294
+    },
+    {
+        "address": "44 W 63rd St, Upper West Side, New York, NY 10023",
+        "base_name": "Ed's Chowder House",
+        "categories": [
+            "Seafood"
+        ],
+        "id": "eds-chowder-house-new-york",
+        "name": "Ed's Chowder House",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 348
+    },
+    {
+        "address": "390 Park Ave, Midtown East, New York, NY 10022",
+        "base_name": "Casa Lever",
+        "categories": [
+            "Italian",
+            "Breakfast & Brunch",
+            "Lounges"
+        ],
+        "id": "casa-lever-new-york",
+        "name": "Casa Lever",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 160
+    },
+    {
+        "address": "9 Penn Plz, Midtown West, New York, NY 10001",
+        "base_name": "Nick & Stef\u2019s Steakhouse",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "nick-and-stefs-steakhouse-new-york",
+        "name": "Nick & Stef's Steakhouse",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 137
+    },
+    {
+        "address": "350 W 50th St, Theater District, New York, NY 10019",
+        "base_name": "Bann",
+        "categories": [
+            "Korean",
+            "Barbeque"
+        ],
+        "id": "bann-restaurant-new-york-4",
+        "name": "Bann Restaurant",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 475
+    },
+    {
+        "address": "52 Vanderbilt Ave, Midtown East, New York, NY 10017",
+        "base_name": "Ammos Estiatorio - Grand Central",
+        "categories": [
+            "Greek",
+            "Seafood"
+        ],
+        "id": "ammos-estiatorio-new-york-4",
+        "name": "Ammos Estiatorio",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 163
+    },
+    {
+        "address": "15 W 18th St, Flatiron, New York, NY 10011",
+        "base_name": "The Gander",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "the-gander-new-york",
+        "name": "The Gander",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 267
+    },
+    {
+        "address": "233 W 49th St, Theater District, New York, NY 10019",
+        "base_name": "E&E Grill House",
+        "categories": [
+            "Steakhouses",
+            "American (New)",
+            "Cocktail Bars"
+        ],
+        "id": "e-and-e-grill-house-new-york",
+        "name": "E&E Grill House",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 228
+    },
+    {
+        "address": "109 Washington St, Financial District, New York, NY 10006",
+        "base_name": "Schilling",
+        "categories": [
+            "Austrian"
+        ],
+        "id": "schilling-new-york",
+        "name": "Schilling",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 41
+    },
+    {
+        "address": "178 Broadway, South Williamsburg, Brooklyn, NY 11211",
+        "base_name": "Empire Steak House - East 50th Street",
+        "categories": [
+            "Steakhouses",
+            "Desserts",
+            "Seafood"
+        ],
+        "id": "peter-luger-brooklyn-2",
+        "name": "Peter Luger",
+        "neighborhoods": [
+            "South Williamsburg",
+            "Williamsburg - South Side"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 3756
+    },
+    {
+        "address": "38 E 19th St, Flatiron, New York, NY 10003",
+        "base_name": "ABC Cocina",
+        "categories": [
+            "Latin American",
+            "Tapas/Small Plates"
+        ],
+        "id": "abc-cocina-new-york",
+        "name": "ABC Cocina",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 600
+    },
+    {
+        "address": "15 E 18th St, Flatiron, New York, NY 10003",
+        "base_name": "Tarallucci e Vino\u2014Union Square",
+        "categories": [
+            "Italian",
+            "Wine Bars",
+            "Breakfast & Brunch"
+        ],
+        "id": "tarallucci-e-vino-new-york-14",
+        "name": "Tarallucci E Vino",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 276
+    },
+    {
+        "address": "130 W 47th St, Theater District, New York, NY 10016",
+        "base_name": "Tender Steak & Sushi",
+        "categories": [
+            "Sushi Bars",
+            "Steakhouses",
+            "Cocktail Bars"
+        ],
+        "id": "tender-new-york-2",
+        "name": "Tender",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 185
+    },
+    {
+        "address": "MetLife Building, 200 Park Ave, Midtown East, New York, NY 10166",
+        "base_name": "Caf\u00e9 Centro",
+        "categories": [
+            "French",
+            "Mediterranean"
+        ],
+        "id": "caf\u00e9-centro-new-york-2",
+        "name": "Caf\u00e9 Centro",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 106
+    },
+    {
+        "address": "67th St & Central Park W, Central Park, New York, NY 10023",
+        "base_name": "Tavern on the Green",
+        "categories": [
+            "Steakhouses",
+            "American (New)",
+            "Desserts"
+        ],
+        "id": "tavern-on-the-green-new-york-7",
+        "name": "Tavern on the Green",
+        "neighborhoods": [
+            "Central Park"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 700
+    },
+    {
+        "address": "433 Amsterdam Ave, Upper West Side, New York, NY 10024",
+        "base_name": "Haru Amsterdam Avenue",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "haru-sushi-new-york",
+        "name": "Haru Sushi",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 175
+    },
+    {
+        "address": "101 W 57th St, Midtown West, New York, NY 10019",
+        "base_name": "The Wayfarer",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "the-wayfarer-new-york",
+        "name": "The Wayfarer",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 207
+    },
+    {
+        "address": "250 Vesey Street, Battery Park, New York, NY 10281",
+        "base_name": "Amada",
+        "categories": [
+            "Diners",
+            "Tapas/Small Plates",
+            "Cocktail Bars"
+        ],
+        "id": "amada-new-york-4",
+        "name": "Amada",
+        "neighborhoods": [
+            "Battery Park"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 122
+    },
+    {
+        "address": "243 E 58th St, Midtown East, New York, NY 10022",
+        "base_name": "Felidia",
+        "categories": [
+            "Italian"
+        ],
+        "id": "felidia-new-york",
+        "name": "Felidia",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 397
+    },
+    {
+        "address": "15 W 44th St, Midtown West, New York, NY 10036",
+        "base_name": "Strip House Midtown",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "strip-house-new-york-6",
+        "name": "Strip House",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 346
+    },
+    {
+        "address": "125 W 44th St, Theater District, New York, NY 10036",
+        "base_name": "Hunt & Fish Club NYC",
+        "categories": [
+            "Seafood",
+            "Steakhouses",
+            "Breakfast & Brunch"
+        ],
+        "id": "hunt-and-fish-club-new-york-2",
+        "name": "Hunt & Fish Club",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 168
+    },
+    {
+        "address": "121 Hudson St, TriBeCa, New York, NY 10013",
+        "base_name": "Mr. Chow New York - Tribeca",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "mr-chow-new-york-2",
+        "name": "Mr Chow",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 282
+    },
+    {
+        "address": "506 Laguardia Pl, Greenwich Village, New York, NY 10012",
+        "base_name": "Freud NYC",
+        "categories": [
+            "Austrian",
+            "American (New)"
+        ],
+        "id": "freud-new-york",
+        "name": "Freud",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 36
+    },
+    {
+        "address": "540 Lexington Ave, Midtown East, New York, NY 10022",
+        "base_name": "La Chine",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "la-chine-new-york",
+        "name": "La Chine",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 75
+    },
+    {
+        "address": "251 W 50th St, Theater District, New York, NY 10019",
+        "base_name": "Toloache",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "toloache-new-york-2",
+        "name": "Toloache",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1320
+    },
+    {
+        "address": "259 Vesey St, Battery Park, New York, NY 10281",
+        "base_name": "El Vez",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "el-vez-new-york",
+        "name": "El Vez",
+        "neighborhoods": [
+            "Battery Park"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 359
+    },
+    {
+        "address": "953 2nd Ave, Midtown East, New York, NY 10022",
+        "base_name": "Socarrat Paella Bar - East",
+        "categories": [
+            "Spanish",
+            "Tapas/Small Plates",
+            "Tapas Bars"
+        ],
+        "id": "socarrat-paella-bar-midtown-east-new-york-3",
+        "name": "Socarrat Paella Bar - Midtown East",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 296
+    },
+    {
+        "address": "19 E 26th St, Flatiron, New York, NY 10010",
+        "base_name": "Black Barn Restaurant",
+        "categories": [
+            "American (New)",
+            "Breakfast & Brunch"
+        ],
+        "id": "black-barn-new-york",
+        "name": "Black Barn",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 172
+    },
+    {
+        "address": "808 Lexington Ave, Upper East Side, New York, NY 10065",
+        "base_name": "Fig & Olive\u2014Uptown",
+        "categories": [
+            "Italian",
+            "Mediterranean",
+            "French"
+        ],
+        "id": "fig-and-olive-new-york",
+        "name": "Fig & Olive",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 338
+    },
+    {
+        "address": "169 E 106th St, East Harlem, New York, NY 10029",
+        "base_name": "Rosa Mexicano\u2014Union Square",
+        "categories": [
+            "Latin American",
+            "Spanish",
+            "Puerto Rican"
+        ],
+        "id": "la-fonda-new-york",
+        "name": "La Fonda",
+        "neighborhoods": [
+            "East Harlem"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 111
+    },
+    {
+        "address": "1341 3rd Ave, Upper East Side, New York, NY 10075",
+        "base_name": "Atlantic Grill East Side",
+        "categories": [
+            "Seafood",
+            "Sushi Bars"
+        ],
+        "id": "atlantic-grill-new-york-2",
+        "name": "Atlantic Grill",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 458
+    },
+    {
+        "address": "43 W 24th St, Flatiron, New York, NY 10010",
+        "base_name": "Raymi Restaurant",
+        "categories": [
+            "American (New)",
+            "Peruvian",
+            "Tapas Bars"
+        ],
+        "id": "raymi-new-york",
+        "name": "Raymi",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 447
+    },
+    {
+        "address": "747 Franklin Ave, Crown Heights, Brooklyn, NY 11238",
+        "base_name": "BKW by Brooklyn Winery",
+        "categories": [
+            "Wine Bars",
+            "American (New)",
+            "Breakfast & Brunch"
+        ],
+        "id": "bkw-by-brooklyn-winery-brooklyn",
+        "name": "BKW By Brooklyn Winery",
+        "neighborhoods": [
+            "Crown Heights"
+        ],
+        "price": "$$$",
+        "rating": 5.0,
+        "review_count": 33
+    },
+    {
+        "address": "1057 Lexington Ave, Upper East Side, New York, NY 10021",
+        "base_name": "Orsay Restaurant",
+        "categories": [
+            "French"
+        ],
+        "id": "orsay-new-york",
+        "name": "Orsay",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 193
+    },
+    {
+        "address": "225 Madison Ave, Murray Hill, New York, NY 10016",
+        "base_name": "The Morgan Dining Room",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "the-morgan-dining-room-new-york",
+        "name": "The Morgan Dining Room",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 10
+    },
+    {
+        "address": "205 Thompson St, Greenwich Village, New York, NY 10012",
+        "base_name": "Toloache Thompson",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "toloache-new-york-4",
+        "name": "Toloache",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 285
+    },
+    {
+        "address": "1000 5th Ave, Central Park, New York, NY 10028",
+        "base_name": "Members Dining Room at the Met Museum",
+        "categories": [
+            "Art Museums"
+        ],
+        "id": "the-metropolitan-museum-of-art-new-york-3",
+        "name": "The Metropolitan Museum of Art",
+        "neighborhoods": [
+            "Central Park"
+        ],
+        "price": null,
+        "rating": 5.0,
+        "review_count": 2155
+    },
+    {
+        "address": "1167 Madison Ave, Upper East Side, New York, NY 10028",
+        "base_name": "Ristorante Morini",
+        "categories": [
+            "Italian"
+        ],
+        "id": "ristorante-morini-new-york",
+        "name": "Ristorante Morini",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 142
+    },
+    {
+        "address": "768 5th Ave, Midtown West, New York, NY 10019",
+        "base_name": "The Palm Court",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "the-palm-court-new-york",
+        "name": "The Palm Court",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 203
+    },
+    {
+        "address": "447 Lexington Ave, Midtown East, New York, NY 10017",
+        "base_name": "Davio's Northern Italian Steakhouse",
+        "categories": [
+            "Steakhouses",
+            "Italian",
+            "Gluten-Free"
+        ],
+        "id": "davios-northern-italian-steakhouse-new-york",
+        "name": "Davio's Northern Italian Steakhouse",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 166
+    },
+    {
+        "address": "1250 Broadway, 39th Fl, Midtown West, New York, NY 10001",
+        "base_name": "Gaonnuri",
+        "categories": [
+            "Korean",
+            "Cocktail Bars"
+        ],
+        "id": "gaonnuri-new-york-3",
+        "name": "Gaonnuri",
+        "neighborhoods": [
+            "Midtown West",
+            "Koreatown"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 520
+    },
+    {
+        "address": "81 Greenwich Ave, West Village, New York, NY 10014",
+        "base_name": "Barraca",
+        "categories": [
+            "Spanish",
+            "Tapas/Small Plates"
+        ],
+        "id": "barraca-new-york",
+        "name": "Barraca",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 429
+    },
+    {
+        "address": "11 W 60th St, Upper West Side, New York, NY 10023",
+        "base_name": "Gabriel's Bar & Restaurant",
+        "categories": [
+            "Italian",
+            "Bars"
+        ],
+        "id": "gabriels-bar-and-restaurant-new-york",
+        "name": "Gabriel's Bar & Restaurant",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 103
+    },
+    {
+        "address": "337 East 49th St, Midtown East, New York, NY 10017",
+        "base_name": "Il Postino",
+        "categories": [
+            "Italian"
+        ],
+        "id": "il-postino-new-york-2",
+        "name": "Il Postino",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 74
+    },
+    {
+        "address": "679 Riverside Dr, New York, NY 10031",
+        "base_name": "Sofrito on the Hudson",
+        "categories": [
+            "Latin American",
+            "Spanish",
+            "American (New)"
+        ],
+        "id": "sofrito-new-york-2",
+        "name": "Sofrito",
+        "neighborhoods": null,
+        "price": "$$",
+        "rating": 2.5,
+        "review_count": 218
+    },
+    {
+        "address": "88 10th Ave, Meatpacking District, New York, NY 10011",
+        "base_name": "Morimoto NY",
+        "categories": [
+            "Japanese",
+            "Sushi Bars"
+        ],
+        "id": "morimoto-new-york",
+        "name": "Morimoto",
+        "neighborhoods": [
+            "Meatpacking District",
+            "Chelsea"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 2478
+    },
+    {
+        "address": "622 3rd Ave, Murray Hill, New York, NY 10017",
+        "base_name": "Zengo",
+        "categories": [
+            "Latin American",
+            "Asian Fusion"
+        ],
+        "id": "zengo-new-york",
+        "name": "Zengo",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 661
+    },
+    {
+        "address": "24 5th Ave, Greenwich Village, New York, NY 10011",
+        "base_name": "Claudette",
+        "categories": [
+            "French"
+        ],
+        "id": "claudette-new-york",
+        "name": "Claudette",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 219
+    },
+    {
+        "address": "425 Lafayette St, NoHo, New York, NY 10003",
+        "base_name": "The Library at The Public",
+        "categories": [
+            "American (New)",
+            "Lounges",
+            "Cocktail Bars"
+        ],
+        "id": "the-library-at-the-public-new-york",
+        "name": "The Library at The Public",
+        "neighborhoods": [
+            "NoHo",
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 127
+    },
+    {
+        "address": "255 5th Ave, Flatiron, New York, NY 10016",
+        "base_name": "Ben & Jack's Steakhouse on 5th",
+        "categories": [
+            "Steakhouses",
+            "Wine Bars",
+            "Seafood"
+        ],
+        "id": "ben-and-jacks-steakhouse-new-york-2",
+        "name": "Ben & Jack's Steakhouse",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 238
+    },
+    {
+        "address": "300 Schermerhorn St, Downtown Brooklyn, Brooklyn, NY 11217",
+        "base_name": "Brasserie S\u00e9oul",
+        "categories": [
+            "French",
+            "Korean"
+        ],
+        "id": "brasserie-s\u00e9oul-brooklyn-2",
+        "name": "Brasserie S\u00e9oul",
+        "neighborhoods": [
+            "Downtown Brooklyn",
+            "Boerum Hill"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 100
+    },
+    {
+        "address": "123 W 52nd St, Theater District, New York, NY 10019",
+        "base_name": "Ocean Prime",
+        "categories": [
+            "Seafood",
+            "Steakhouses",
+            "Cocktail Bars"
+        ],
+        "id": "ocean-prime-new-york",
+        "name": "Ocean Prime",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 115
+    },
+    {
+        "address": "56 Beaver St, Financial District, New York, NY 10004",
+        "base_name": "Delmonico's Restaurant",
+        "categories": [
+            "Steakhouses",
+            "American (Traditional)"
+        ],
+        "id": "delmonicos-new-york",
+        "name": "Delmonico's",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 708
+    },
+    {
+        "address": "125 W 55th St, Midtown West, New York, NY 10019",
+        "base_name": "Estiatorio Milos",
+        "categories": [
+            "Seafood",
+            "Greek",
+            "Mediterranean"
+        ],
+        "id": "estiatorio-milos-new-york",
+        "name": "Estiatorio Milos",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 610
+    },
+    {
+        "address": "53 Great Jones St, NoHo, New York, NY 10012",
+        "base_name": "Il Buco Alimentari & Vineria",
+        "categories": [
+            "Italian"
+        ],
+        "id": "il-buco-alimentari-and-vineria-new-york-2",
+        "name": "il Buco Alimentari & Vineria",
+        "neighborhoods": [
+            "NoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 400
+    },
+    {
+        "address": "10 E 52nd St, Midtown East, New York, NY 10022",
+        "base_name": "Fig & Olive\u2014Midtown",
+        "categories": [
+            "Mediterranean",
+            "French",
+            "Italian"
+        ],
+        "id": "fig-and-olive-fifth-ave-new-york",
+        "name": "Fig & Olive - Fifth Ave",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 842
+    },
+    {
+        "address": "2 Bank St, West Village, New York, NY 10014",
+        "base_name": "Macondo West",
+        "categories": [
+            "Tapas Bars",
+            "Latin American",
+            "Spanish"
+        ],
+        "id": "macondo-west-new-york",
+        "name": "Macondo West",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 163
+    },
+    {
+        "address": "275 Mulberry St, Nolita, New York, NY 10012",
+        "base_name": "Chefs Club",
+        "categories": [
+            "Wine Bars",
+            "American (New)"
+        ],
+        "id": "chefs-club-new-york",
+        "name": "Chefs Club",
+        "neighborhoods": [
+            "Nolita"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 260
+    },
+    {
+        "address": "200 E 3rd St, East Village, New York, NY 10009",
+        "base_name": "Root & Bone",
+        "categories": [
+            "Southern",
+            "Comfort Food",
+            "Desserts"
+        ],
+        "id": "root-and-bone-new-york",
+        "name": "Root & Bone",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 919
+    },
+    {
+        "address": "405 E 52nd St, Midtown East, New York, NY 10022",
+        "base_name": "Le P\u00e9rigord",
+        "categories": [
+            "French",
+            "Desserts",
+            "Salad"
+        ],
+        "id": "le-perigord-new-york-4",
+        "name": "Le Perigord",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 170
+    },
+    {
+        "address": "207 W 36th St, Midtown West, New York, NY 10018",
+        "base_name": "Delmonico's Kitchen",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "delmonicos-kitchen-new-york-3",
+        "name": "Delmonico's Kitchen",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 248
+    },
+    {
+        "address": "9 W 57th St, Midtown West, New York, NY 10019",
+        "base_name": "Brasserie 8 1/2",
+        "categories": [
+            "American (New)",
+            "French"
+        ],
+        "id": "brasserie-8-1-2-new-york-2",
+        "name": "Brasserie 8 1/2",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 341
+    },
+    {
+        "address": "70 W 45th St, Midtown West, New York, NY 10036",
+        "base_name": "Butter Midtown",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "butter-midtown-new-york",
+        "name": "Butter Midtown",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 500
+    },
+    {
+        "address": "75 9th Ave, Meatpacking District, New York, NY 10011",
+        "base_name": "Giovanni Rana Pastificio & Cucina",
+        "categories": [
+            "Italian"
+        ],
+        "id": "giovanni-rana-pastificio-and-cucina-new-york",
+        "name": "Giovanni Rana Pastificio & Cucina",
+        "neighborhoods": [
+            "Meatpacking District",
+            "Chelsea"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 503
+    },
+    {
+        "address": "55 Wall St, Financial District, New York, NY 10005",
+        "base_name": "Cipriani Wall Street",
+        "categories": [
+            "Italian",
+            "Specialty Food"
+        ],
+        "id": "cipriani-wall-street-new-york-2",
+        "name": "Cipriani Wall Street",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 147
+    },
+    {
+        "address": "1114 Avenue of the Americas, Midtown West, New York, NY 10036",
+        "base_name": "STK Midtown",
+        "categories": [
+            "Steakhouses",
+            "American (New)",
+            "Cocktail Bars"
+        ],
+        "id": "stk-midtown-new-york",
+        "name": "STK Midtown",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 452
+    },
+    {
+        "address": "61 W 8th St, Greenwich Village, New York, NY 10011",
+        "base_name": "Neta",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "neta-new-york",
+        "name": "Neta",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 256
+    },
+    {
+        "address": "176 Perry St, West Village, New York, NY 10014",
+        "base_name": "Perry Street",
+        "categories": [
+            "American (New)",
+            "French"
+        ],
+        "id": "perry-st-new-york",
+        "name": "Perry St",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 772
+    },
+    {
+        "address": "1740 Broadway, Midtown West, New York, NY 10019",
+        "base_name": "Brasserie Cognac",
+        "categories": [
+            "French"
+        ],
+        "id": "brasserie-cognac-new-york-2",
+        "name": "Brasserie Cognac",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 262
+    },
+    {
+        "address": "26 Little W 12th St, Meatpacking District, New York, NY 10014",
+        "base_name": "STK Downtown",
+        "categories": [
+            "Steakhouses",
+            "American (New)",
+            "Cocktail Bars"
+        ],
+        "id": "stk-downtown-new-york-2",
+        "name": "STK Downtown",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 755
+    },
+    {
+        "address": "The Ritz-Carlton New York, Central Park, 50 Central Park South, Midtown West, New York, NY 10019",
+        "base_name": "Auden Bistro & Bar",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "auden-bistro-and-bar-new-york",
+        "name": "Auden Bistro & Bar",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 25
+    },
+    {
+        "address": "148 W 51st St, Theater District, New York, NY 10019",
+        "base_name": "Ruth's Chris Steak House",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "ruths-chris-steak-house-new-york-5",
+        "name": "Ruth's Chris Steak House",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 607
+    },
+    {
+        "address": "246 E 51st St., Midtown East, New York, NY 10022",
+        "base_name": "Amma Restaurant",
+        "categories": [
+            "Indian"
+        ],
+        "id": "amma-new-york",
+        "name": "Amma",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 399
+    },
+    {
+        "address": "157 E 55th St, Midtown East, New York, NY 10022",
+        "base_name": "Darbar",
+        "categories": [
+            "Indian",
+            "Buffets",
+            "Bars"
+        ],
+        "id": "darbar-grill-new-york",
+        "name": "Darbar Grill",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 396
+    },
+    {
+        "address": "12 E 12th St, Union Square, New York, NY 10003",
+        "base_name": "Gotham Bar & Grill",
+        "categories": [
+            "American (New)",
+            "Bars"
+        ],
+        "id": "gotham-bar-and-grill-new-york",
+        "name": "Gotham Bar and Grill",
+        "neighborhoods": [
+            "Union Square",
+            "Greenwich Village"
+        ],
+        "price": "$$$$",
+        "rating": 4.5,
+        "review_count": 1253
+    },
+    {
+        "address": "155 E 42nd St, Midtown East, New York, NY 10017",
+        "base_name": "The Capital Grille Chrysler Center",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "Wine Bars"
+        ],
+        "id": "the-capital-grille-new-york",
+        "name": "The Capital Grille",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 614
+    },
+    {
+        "address": "39 E 58th St, Midtown East, New York, NY 10022",
+        "base_name": "Lavo Restaurant",
+        "categories": [
+            "Italian",
+            "Dance Clubs",
+            "Steakhouses"
+        ],
+        "id": "lavo-new-york",
+        "name": "Lavo",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 777
+    },
+    {
+        "address": "2168 Frederick Douglass Blvd, Harlem, New York, NY 10026",
+        "base_name": "Lido",
+        "categories": [
+            "Italian",
+            "Breakfast & Brunch",
+            "Cocktail Bars"
+        ],
+        "id": "lido-new-york",
+        "name": "Lido",
+        "neighborhoods": [
+            "Harlem"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 604
+    },
+    {
+        "address": "150 W 57th St, Midtown West, New York, NY 10019",
+        "base_name": "The Russian Tea Room",
+        "categories": [
+            "Tea Rooms",
+            "Russian",
+            "Venues & Event Spaces"
+        ],
+        "id": "the-russian-tea-room-new-york",
+        "name": "The Russian Tea Room",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 678
+    },
+    {
+        "address": "152 E 79th St, Upper East Side, New York, NY 10021",
+        "base_name": "Il Riccio",
+        "categories": [
+            "Italian",
+            "Seafood",
+            "Pasta Shops"
+        ],
+        "id": "il-riccio-new-york-3",
+        "name": "Il Riccio",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 52
+    },
+    {
+        "address": "7717 3rd Ave, Bay Ridge, Brooklyn, NY 11209",
+        "base_name": "The Greenhouse Cafe",
+        "categories": [
+            "American (New)",
+            "Italian"
+        ],
+        "id": "greenhouse-cafe-brooklyn",
+        "name": "Greenhouse Cafe",
+        "neighborhoods": [
+            "Bay Ridge"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 79
+    },
+    {
+        "address": "141 W 69 St, Upper West Side, New York, NY 10023",
+        "base_name": "Andanada",
+        "categories": [
+            "Spanish",
+            "Tapas/Small Plates",
+            "Music Venues"
+        ],
+        "id": "andanada-new-york-3",
+        "name": "Andanada",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 240
+    },
+    {
+        "address": "311 W 43rd St, Theater District, New York, NY 10036",
+        "base_name": "Hakkasan New York",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "hakkasan-new-york",
+        "name": "Hakkasan",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 611
+    },
+    {
+        "address": "226 W 50th St, Theater District, New York, NY 10019",
+        "base_name": "Natsumi",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "natsumi-new-york",
+        "name": "Natsumi",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 556
+    },
+    {
+        "address": "103 Waverly Pl, Greenwich Village, New York, NY 10011",
+        "base_name": "North Square Restaurant & Lounge",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "north-square-new-york",
+        "name": "North Square",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 239
+    },
+    {
+        "address": "105 Reade St, TriBeCa, New York, NY 10013",
+        "base_name": "Saz\u00f3n",
+        "categories": [
+            "Latin American",
+            "Puerto Rican"
+        ],
+        "id": "sazon-new-york",
+        "name": "Sazon",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 612
+    },
+    {
+        "address": "551 5th Ave, Midtown East, New York, NY 10176",
+        "base_name": "Tommy Bahama Restaurant\u2013Bar\u2013Store",
+        "categories": [
+            "American (New)",
+            "Hawaiian",
+            "Seafood"
+        ],
+        "id": "tommy-bahama-restaurant-bar-store-new-york-new-york",
+        "name": "Tommy Bahama Restaurant | Bar | Store - New York",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 418
+    },
+    {
+        "address": "1900 Broadway, Upper West Side, New York, NY 10023",
+        "base_name": "Bar Boulud",
+        "categories": [
+            "French",
+            "Wine Bars"
+        ],
+        "id": "bar-boulud-new-york-2",
+        "name": "Bar Boulud",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 666
+    },
+    {
+        "address": "282 Bowery, Nolita, New York, NY 10012",
+        "base_name": "Cherche Midi",
+        "categories": [
+            "French"
+        ],
+        "id": "cherche-midi-new-york",
+        "name": "Cherche Midi",
+        "neighborhoods": [
+            "Nolita"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 219
+    },
+    {
+        "address": "179 Franklin St, TriBeCa, New York, NY 10013",
+        "base_name": "Thalassa Restaurant",
+        "categories": [
+            "Seafood",
+            "Greek",
+            "Mediterranean"
+        ],
+        "id": "thalassa-restaurant-new-york",
+        "name": "Thalassa Restaurant",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 267
+    },
+    {
+        "address": "24 W 55th St, Midtown West, New York, NY 10019",
+        "base_name": "Michael's Restaurant",
+        "categories": [
+            "American (New)",
+            "Salad",
+            "Pizza"
+        ],
+        "id": "michaels-new-york",
+        "name": "Michael's",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 74
+    },
+    {
+        "address": "60 E 54th St, Midtown East, New York, NY 10022",
+        "base_name": "Monkey Bar",
+        "categories": [
+            "American (Traditional)",
+            "Bars"
+        ],
+        "id": "monkey-bar-new-york",
+        "name": "Monkey Bar",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 214
+    },
+    {
+        "address": "5 Madison Ave, Flatiron, New York, NY 10010",
+        "base_name": "The Clocktower",
+        "categories": [
+            "British"
+        ],
+        "id": "the-clocktower-new-york",
+        "name": "The Clocktower",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 167
+    },
+    {
+        "address": "420 W 13th St, Meatpacking District, New York, NY 10014",
+        "base_name": "Fig & Olive\u2014Downtown",
+        "categories": [
+            "Mediterranean",
+            "French",
+            "Italian"
+        ],
+        "id": "fig-and-olive-new-york-2",
+        "name": "Fig & Olive",
+        "neighborhoods": [
+            "Meatpacking District",
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1080
+    },
+    {
+        "address": "828 9th Ave, Midtown West, New York, NY 10019",
+        "base_name": "Bocca Di Bacco\u2014Hell's Kitchen",
+        "categories": [
+            "Italian"
+        ],
+        "id": "bocca-di-bacco-new-york-2",
+        "name": "Bocca Di Bacco",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 513
+    },
+    {
+        "address": "45 W 81st St, Upper West Side, New York, NY 10024",
+        "base_name": "Calle Ocho",
+        "categories": [
+            "Cuban",
+            "Latin American"
+        ],
+        "id": "calle-ocho-new-york",
+        "name": "Calle Ocho",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 1976
+    },
+    {
+        "address": "157 E 55th St, Midtown East, New York, NY 10022",
+        "base_name": "Darbar Grill",
+        "categories": [
+            "Indian",
+            "Buffets",
+            "Bars"
+        ],
+        "id": "darbar-grill-new-york",
+        "name": "Darbar Grill",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 396
+    },
+    {
+        "address": "99 Prince St, SoHo, New York, NY 10012",
+        "base_name": "Mercer Kitchen",
+        "categories": [
+            "American (Traditional)"
+        ],
+        "id": "mercer-kitchen-new-york-5",
+        "name": "Mercer Kitchen",
+        "neighborhoods": [
+            "SoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1239
+    },
+    {
+        "address": "228 West 52nd St, Theater District, New York, NY 10019",
+        "base_name": "Gallaghers Steakhouse",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "gallaghers-steakhouse-new-york",
+        "name": "Gallaghers Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 423
+    },
+    {
+        "address": "31-29 Ditmars Blvd, Astoria, Astoria, NY 11105",
+        "base_name": "MP Taverna - Astoria",
+        "categories": [
+            "Greek",
+            "American (New)"
+        ],
+        "id": "mp-taverna-astoria-astoria",
+        "name": "MP Taverna Astoria",
+        "neighborhoods": [
+            "Astoria",
+            "Steinway"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 572
+    },
+    {
+        "address": "365 W 46th St, Theater District, New York, NY 10036",
+        "base_name": "Sushi Seki Times Square",
+        "categories": [
+            "Sushi Bars",
+            "Japanese",
+            "Cocktail Bars"
+        ],
+        "id": "sushi-seki-times-square-new-york-4",
+        "name": "Sushi Seki Times Square",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 54
+    },
+    {
+        "address": "1 Central Park W, Upper West Side, New York, NY 10023",
+        "base_name": "Nougatine at Jean-Georges",
+        "categories": [
+            "French",
+            "Breakfast & Brunch"
+        ],
+        "id": "nougatine-at-jean-georges-new-york",
+        "name": "Nougatine at Jean-Georges",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 907
+    },
+    {
+        "address": "240 E 58th St, Midtown East, New York, NY 10022",
+        "base_name": "Club A Steakhouse",
+        "categories": [
+            "Steakhouses",
+            "Beer, Wine & Spirits"
+        ],
+        "id": "club-a-steakhouse-new-york",
+        "name": "Club A Steakhouse",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 2005
+    },
+    {
+        "address": "222 W 79th St, Upper West Side, New York, NY 10024",
+        "base_name": "FishTag",
+        "categories": [
+            "Seafood",
+            "Mediterranean",
+            "Breakfast & Brunch"
+        ],
+        "id": "fishtag-new-york",
+        "name": "FishTag",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 365
+    },
+    {
+        "address": "500 E 30th St, Stuyvesant Town, New York, NY 10016",
+        "base_name": "The Water Club",
+        "categories": [
+            "Seafood",
+            "American (Traditional)",
+            "Bars"
+        ],
+        "id": "the-water-club-new-york",
+        "name": "The Water Club",
+        "neighborhoods": [
+            "Stuyvesant Town",
+            "Kips Bay"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 321
+    },
+    {
+        "address": "20 West 64th Street, Upper West Side, New York, NY 10023",
+        "base_name": "Boulud Sud",
+        "categories": [
+            "Mediterranean"
+        ],
+        "id": "boulud-sud-new-york",
+        "name": "Boulud Sud",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 487
+    },
+    {
+        "address": "117 Perry St, West Village, New York, NY 10014",
+        "base_name": "Left Bank",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "left-bank-new-york",
+        "name": "Left Bank",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 205
+    },
+    {
+        "address": "Dream Downtown, 355 W 16th St, Chelsea, New York, NY 10011",
+        "base_name": "Bodega Negra at Dream Downtown",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "bodega-negra-new-york",
+        "name": "Bodega Negra",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 340
+    },
+    {
+        "address": "54 Thompson St, South Village, New York, NY 10012",
+        "base_name": "Pera SoHo",
+        "categories": [
+            "Mediterranean",
+            "Turkish",
+            "Breakfast & Brunch"
+        ],
+        "id": "pera-soho-new-york",
+        "name": "Pera Soho",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 288
+    },
+    {
+        "address": "299 Bowery, NoHo, New York, NY 10003",
+        "base_name": "DBGB Kitchen and Bar",
+        "categories": [
+            "Gastropubs"
+        ],
+        "id": "dbgb-kitchen-and-bar-new-york",
+        "name": "DBGB Kitchen and Bar",
+        "neighborhoods": [
+            "NoHo",
+            "East Village",
+            "Lower East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1296
+    },
+    {
+        "address": "20 E 76th St, Upper East Side, New York, NY 10021",
+        "base_name": "Caf\u00e9 Boulud",
+        "categories": [
+            "French"
+        ],
+        "id": "cafe-boulud-new-york-4",
+        "name": "Cafe Boulud",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 508
+    },
+    {
+        "address": "403 E 12th St, 1st Ave, East Village, New York, NY 10009",
+        "base_name": "Hearth",
+        "categories": [
+            "American (New)",
+            "Italian",
+            "Breakfast & Brunch"
+        ],
+        "id": "hearth-new-york",
+        "name": "Hearth",
+        "neighborhoods": [
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 530
+    },
+    {
+        "address": "8 W 36th St, Midtown West, New York, NY 10018",
+        "base_name": "Kristalbelli",
+        "categories": [
+            "Korean"
+        ],
+        "id": "kristalbelli-new-york",
+        "name": "Kristalbelli",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 333
+    },
+    {
+        "address": "170 Thompson St, Greenwich Village, New York, NY 10012",
+        "base_name": "Lupa Osteria Romana",
+        "categories": [
+            "Italian",
+            "American (New)"
+        ],
+        "id": "lupa-new-york",
+        "name": "Lupa",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1207
+    },
+    {
+        "address": "55 W 44th St, Ste 1, Midtown West, New York, NY 10036",
+        "base_name": "DB Bistro Moderne",
+        "categories": [
+            "French",
+            "American (New)",
+            "Bars"
+        ],
+        "id": "db-bistro-moderne-new-york-3",
+        "name": "DB Bistro Moderne",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 550
+    },
+    {
+        "address": "414 W 42nd St, Midtown West, New York, NY 10036",
+        "base_name": "Chez Josephine",
+        "categories": [
+            "French"
+        ],
+        "id": "chez-josephine-new-york",
+        "name": "Chez Josephine",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 276
+    },
+    {
+        "address": "118 E 40th St, Midtown East, New York, NY 10016",
+        "base_name": "Bedford & Co.",
+        "categories": [
+            "American (New)",
+            "Desserts",
+            "Breakfast & Brunch"
+        ],
+        "id": "bedford-and-co-new-york-2",
+        "name": "Bedford & Co",
+        "neighborhoods": [
+            "Midtown East",
+            "Murray Hill"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 38
+    },
+    {
+        "address": "1295 Madison Ave, Upper East Side, New York, NY 10128",
+        "base_name": "Sarabeth's Upper East Side",
+        "categories": [
+            "American (Traditional)",
+            "Breakfast & Brunch"
+        ],
+        "id": "sarabeths-east-new-york-2",
+        "name": "Sarabeth's East",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 497
+    },
+    {
+        "address": "325 W 51st St, Theater District, New York, NY 10019",
+        "base_name": "ViceVersa",
+        "categories": [
+            "Italian"
+        ],
+        "id": "viceversa-new-york",
+        "name": "ViceVersa",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 185
+    },
+    {
+        "address": "346 W 52nd St, Theater District, New York, NY 10019",
+        "base_name": "Danji",
+        "categories": [
+            "Korean"
+        ],
+        "id": "danji-new-york",
+        "name": "Danji",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 695
+    },
+    {
+        "address": "19 Greenwich Ave, West Village, New York, NY 10014",
+        "base_name": "Quality Eats",
+        "categories": [
+            "American (Traditional)",
+            "Steakhouses"
+        ],
+        "id": "quality-eats-new-york",
+        "name": "Quality Eats",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 183
+    },
+    {
+        "address": "360 Park Ave S, Flatiron, New York, NY 10010",
+        "base_name": "Park Avenue Winter",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "park-avenue-autumn-winter-spring-summer-new-york-3",
+        "name": "Park Avenue Autumn/Winter/Spring/Summer",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 451
+    },
+    {
+        "address": "1600 3rd Ave, Upper East Side, New York, NY 10021",
+        "base_name": "Parlor Steak & Fish",
+        "categories": [
+            "Seafood",
+            "Steakhouses",
+            "Breakfast & Brunch"
+        ],
+        "id": "parlor-steak-and-fish-new-york-2",
+        "name": "Parlor Steak and Fish",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 388
+    },
+    {
+        "address": "1 Rockefeller Plz 49th St, Midtown West, New York, NY 10020",
+        "base_name": "Morrell Wine Bar & Cafe",
+        "categories": [
+            "Wine Bars",
+            "American (New)",
+            "Cafes"
+        ],
+        "id": "morrell-wine-bar-and-cafe-new-york",
+        "name": "Morrell Wine Bar & Cafe",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 175
+    },
+    {
+        "address": "120 W 45th St, Theater District, New York, NY 10036",
+        "base_name": "Bobby Van's Grill - West 45th Street",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "bobby-vans-steakhouse-new-york-12",
+        "name": "Bobby Van's Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 140
+    },
+    {
+        "address": "Conrad New York Hotel, 102 N End Ave, Battery Park, New York, NY 10282",
+        "base_name": "Atrio Wine Bar l Restaurant",
+        "categories": [
+            "Lounges"
+        ],
+        "id": "loopy-doopy-rooftop-bar-new-york",
+        "name": "Loopy Doopy Rooftop Bar",
+        "neighborhoods": [
+            "Battery Park"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 418
+    },
+    {
+        "address": "108 E 38th St, Murray Hill, New York, NY 10016",
+        "base_name": "Rossini's Restaurant",
+        "categories": [
+            "Italian"
+        ],
+        "id": "rossinis-new-york",
+        "name": "Rossini's",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 101
+    },
+    {
+        "address": "225 Liberty St, Battery Park, New York, NY 10281",
+        "base_name": "Beaubourg at Le District",
+        "categories": [
+            "French"
+        ],
+        "id": "beaubourg-new-york",
+        "name": "Beaubourg",
+        "neighborhoods": [
+            "Battery Park"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 150
+    },
+    {
+        "address": "151 E 58th St, Midtown East, New York, NY 10022",
+        "base_name": "Le Cirque",
+        "categories": [
+            "French",
+            "Vegetarian"
+        ],
+        "id": "le-cirque-new-york",
+        "name": "Le Cirque",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 809
+    },
+    {
+        "address": "135 West 50th Street, Theater District, New York, NY 10020",
+        "base_name": "Bobby Van's Grill - West 50th Street",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "bobby-vans-steakhouse-new-york-13",
+        "name": "Bobby Van's Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 232
+    },
+    {
+        "address": "107 E 34th St, Murray Hill, New York, NY 10016",
+        "base_name": "Villa Berulia",
+        "categories": [
+            "Italian"
+        ],
+        "id": "villa-berulia-new-york",
+        "name": "Villa Berulia",
+        "neighborhoods": [
+            "Murray Hill",
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 101
+    },
+    {
+        "address": "25 Broad Street, Financial District, New York, NY 10004",
+        "base_name": "Bobby Van's Steakhouse & Grill - Broad Street",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "bobby-vans-steakhouse-new-york-3",
+        "name": "Bobby Van's Steakhouse",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 292
+    },
+    {
+        "address": "797 3rd Ave, Midtown East, New York, NY 10022",
+        "base_name": "Smith & Wollensky",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "smith-and-wollensky-new-york",
+        "name": "Smith & Wollensky",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 986
+    },
+    {
+        "address": "201 W 79th St, Upper West Side, New York, NY 10024",
+        "base_name": "Nice Matin",
+        "categories": [
+            "French",
+            "Breakfast & Brunch",
+            "Gluten-Free"
+        ],
+        "id": "nice-matin-new-york",
+        "name": "Nice Matin",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 567
+    },
+    {
+        "address": "44 E 28th St, Flatiron, New York, NY 10016",
+        "base_name": "Tarallucci e Vino\u2014NoMad",
+        "categories": [
+            "Italian",
+            "Wine Bars",
+            "Breakfast & Brunch"
+        ],
+        "id": "tarallucci-e-vino-nomad-new-york",
+        "name": "Tarallucci E Vino - Nomad",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 5.0,
+        "review_count": 7
+    },
+    {
+        "address": "209 E 49th St, Midtown East, New York, NY 10017",
+        "base_name": "Pampano",
+        "categories": [
+            "Mexican",
+            "Latin American"
+        ],
+        "id": "pampano-new-york",
+        "name": "Pampano",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 461
+    },
+    {
+        "address": "230 W 4th St, West Village, New York, NY 10014",
+        "base_name": "Empell\u00f3n Taqueria",
+        "categories": [
+            "Mexican",
+            "Venues & Event Spaces"
+        ],
+        "id": "empell\u00f3n-taqueria-new-york",
+        "name": "Empell\u00f3n Taqueria",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 535
+    },
+    {
+        "address": "339-A 2nd St, Park Slope, Brooklyn, NY 11215",
+        "base_name": "Benchmark Restaurant",
+        "categories": [
+            "Steakhouses",
+            "American (New)"
+        ],
+        "id": "benchmark-brooklyn",
+        "name": "Benchmark",
+        "neighborhoods": [
+            "Park Slope",
+            "Gowanus"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 390
+    },
+    {
+        "address": "394 City Island Ave, City Island, Bronx, NY 10464",
+        "base_name": "Artie's Steak and Seafood",
+        "categories": [
+            "Seafood",
+            "Steakhouses",
+            "Italian"
+        ],
+        "id": "arties-steak-and-seafood-bronx-2",
+        "name": "Artie's Steak & Seafood",
+        "neighborhoods": [
+            "City Island"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 114
+    },
+    {
+        "address": "480 Lexington Ave, Midtown East, New York, NY 10017",
+        "base_name": "Vermilion",
+        "categories": [
+            "Indian",
+            "Latin American"
+        ],
+        "id": "vermilion-new-york-4",
+        "name": "Vermilion",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 277
+    },
+    {
+        "address": "131 Sullivan St, South Village, New York, NY 10012",
+        "base_name": "The Dutch",
+        "categories": [
+            "American (Traditional)"
+        ],
+        "id": "the-dutch-new-york",
+        "name": "The Dutch",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 908
+    },
+    {
+        "address": "773 10th Ave, Midtown West, New York, NY 10019",
+        "base_name": "Taboon",
+        "categories": [
+            "Middle Eastern",
+            "Mediterranean"
+        ],
+        "id": "taboon-new-york",
+        "name": "Taboon",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 470
+    },
+    {
+        "address": "211 E 46th St, Midtown East, New York, NY 10017",
+        "base_name": "Tulsi",
+        "categories": [
+            "Indian",
+            "Halal"
+        ],
+        "id": "tulsi-new-york",
+        "name": "Tulsi",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 272
+    },
+    {
+        "address": "380 Lafayette St, NoHo, New York, NY 10003",
+        "base_name": "Lafayette",
+        "categories": [
+            "French",
+            "Brasseries",
+            "Bakeries"
+        ],
+        "id": "lafayette-new-york-2",
+        "name": "Lafayette",
+        "neighborhoods": [
+            "NoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 622
+    },
+    {
+        "address": "8-08 Queens Plz S, Long Island City, Long Island City, NY 11101",
+        "base_name": "Penthouse 808 ",
+        "categories": [
+            "Cocktail Bars",
+            "Asian Fusion",
+            "Tapas/Small Plates"
+        ],
+        "id": "penthouse-808-long-island-city-4",
+        "name": "Penthouse 808",
+        "neighborhoods": [
+            "Long Island City"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 589
+    },
+    {
+        "address": "135 E 55th St, Midtown East, New York, NY 10022",
+        "base_name": "Angus Club Steakhouse",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "Salad"
+        ],
+        "id": "angus-club-steakhouse-new-york",
+        "name": "Angus Club Steakhouse",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 115
+    },
+    {
+        "address": "1278 3rd Ave, Upper East Side, New York, NY 10021",
+        "base_name": "T Bar Steak and Lounge",
+        "categories": [
+            "Steakhouses",
+            "American (New)",
+            "Seafood"
+        ],
+        "id": "tbar-steak-and-lounge-new-york",
+        "name": "TBar Steak & Lounge",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 106
+    },
+    {
+        "address": "355 W 16th St, Chelsea, New York, NY 10011",
+        "base_name": "Megu",
+        "categories": [
+            "Japanese"
+        ],
+        "id": "megu-new-york-3",
+        "name": "Megu",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 62
+    },
+    {
+        "address": "229 W 43rd St, Ste 221, Theater District, New York, NY 10036",
+        "base_name": "Haru Third Avenue",
+        "categories": [
+            "Japanese",
+            "Sushi Bars"
+        ],
+        "id": "haru-sushi-new-york-16",
+        "name": "Haru Sushi",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 488
+    },
+    {
+        "address": "1166 1st Ave, Upper East Side, New York, NY 10065",
+        "base_name": "Felice 64",
+        "categories": [
+            "Wine Bars",
+            "Italian",
+            "Diners"
+        ],
+        "id": "felice-64-new-york",
+        "name": "Felice 64",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 206
+    },
+    {
+        "address": "40 Central Park S, Midtown West, New York, NY 10019",
+        "base_name": "Sarabeth's Central Park South",
+        "categories": [
+            "Breakfast & Brunch",
+            "American (Traditional)"
+        ],
+        "id": "sarabeths-new-york-10",
+        "name": "Sarabeth's",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 1243
+    },
+    {
+        "address": "2900 Southern Blvd, Bronx, NY 10458",
+        "base_name": "Hudson Garden Grill ",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "hudson-garden-grill-bronx",
+        "name": "Hudson Garden Grill",
+        "neighborhoods": null,
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 62
+    },
+    {
+        "address": "37 E 50th St, Midtown East, New York, NY 10022",
+        "base_name": "Maloney & Porcelli",
+        "categories": [
+            "American (Traditional)",
+            "Steakhouses"
+        ],
+        "id": "maloney-and-porcelli-new-york",
+        "name": "Maloney & Porcelli",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 340
+    },
+    {
+        "address": "630 9th Ave, Theater District, New York, NY 10036",
+        "base_name": "Marseille",
+        "categories": [
+            "French"
+        ],
+        "id": "marseille-new-york",
+        "name": "Marseille",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 638
+    },
+    {
+        "address": "132 W 44th St, Theater District, New York, NY 10036",
+        "base_name": "The Lambs Club Bar",
+        "categories": [
+            "American (New)",
+            "Lounges"
+        ],
+        "id": "the-lambs-club-new-york",
+        "name": "The Lambs Club",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 398
+    },
+    {
+        "address": "32 E 10th St, Greenwich Village, New York, NY 10003",
+        "base_name": "Il Cantinori Restaurant",
+        "categories": [
+            "Italian"
+        ],
+        "id": "il-cantinori-new-york",
+        "name": "Il Cantinori",
+        "neighborhoods": [
+            "Greenwich Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 185
+    },
+    {
+        "address": "182 8th Ave, St 19, Chelsea, New York, NY 10011",
+        "base_name": "Rocking Horse Cafe",
+        "categories": [
+            "Mexican"
+        ],
+        "id": "rocking-horse-cafe-new-york",
+        "name": "Rocking Horse Cafe",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 489
+    },
+    {
+        "address": "68 Clinton St, Lower East Side, New York, NY 10002",
+        "base_name": "Pig and Khao",
+        "categories": [
+            "Filipino",
+            "Thai",
+            "Asian Fusion"
+        ],
+        "id": "pig-and-khao-new-york",
+        "name": "Pig and Khao",
+        "neighborhoods": [
+            "Lower East Side"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 908
+    },
+    {
+        "address": "200 Spring St, South Village, New York, NY 10012",
+        "base_name": "Savore Ristorante",
+        "categories": [
+            "Wine Bars",
+            "Italian"
+        ],
+        "id": "savore-ristorante-new-york",
+        "name": "Savore Ristorante",
+        "neighborhoods": [
+            "South Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 114
+    },
+    {
+        "address": "Hilton Garden Inn, 136 W 42nd St, Theater District, New York, NY 10036",
+        "base_name": "Paul's on Times Square",
+        "categories": [
+            "Bars",
+            "Pizza",
+            "Italian"
+        ],
+        "id": "pauls-on-times-square-new-york",
+        "name": "Paul's On Times Square",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 122
+    },
+    {
+        "address": "1703 2nd Ave, Upper East Side, New York, NY 10128",
+        "base_name": "The Writing Room",
+        "categories": [
+            "Italian"
+        ],
+        "id": "the-writing-room-new-york",
+        "name": "The Writing Room",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 302
+    },
+    {
+        "address": "887 9th Ave, Midtown West, New York, NY 10019",
+        "base_name": "Masseria Dei Vini",
+        "categories": [
+            "Wine Bars",
+            "Italian"
+        ],
+        "id": "masseria-dei-vini-new-york",
+        "name": "Masseria Dei Vini",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 285
+    },
+    {
+        "address": "49 W 20th St, Flatiron, New York, NY 10011",
+        "base_name": "Jue Lan Club",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "jue-lan-club-new-york",
+        "name": "Jue Lan Club",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 107
+    },
+    {
+        "address": "177 Mulberry St, Little Italy, New York, NY 10013",
+        "base_name": "Grotta Azzurra Restaurant",
+        "categories": [
+            "Italian",
+            "Breakfast & Brunch"
+        ],
+        "id": "grotta-azzurra-new-york",
+        "name": "Grotta Azzurra",
+        "neighborhoods": [
+            "Little Italy"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 370
+    },
+    {
+        "address": "Giorgio Armani, 717 5th Ave, Midtown East, New York, NY 10022",
+        "base_name": "Armani/Ristorante",
+        "categories": [
+            "Italian"
+        ],
+        "id": "armani-ristorante-new-york",
+        "name": "Armani Ristorante",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 139
+    },
+    {
+        "address": "32 W 37th St, Midtown West, New York, NY 10018",
+        "base_name": "Frankie & Johnnie\u2019s Steakhouse\u201437th Street",
+        "categories": [
+            "Steakhouses",
+            "American (New)"
+        ],
+        "id": "frankie-and-johnnies-steak-house-new-york-3",
+        "name": "Frankie & Johnnie's Steak House",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 116
+    },
+    {
+        "address": "381 Park Ave S, Flatiron, New York, NY 10016",
+        "base_name": "Sarabeth's Park Avenue South",
+        "categories": [
+            "Breakfast & Brunch",
+            "American (Traditional)"
+        ],
+        "id": "sarabeths-new-york-5",
+        "name": "Sarabeth's",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 381
+    },
+    {
+        "address": "637 Hudson St, West Village, New York, NY 10014",
+        "base_name": "High Street on Hudson",
+        "categories": [
+            "American (New)",
+            "Bakeries",
+            "Breakfast & Brunch"
+        ],
+        "id": "high-street-on-hudson-new-york",
+        "name": "High Street On Hudson",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 135
+    },
+    {
+        "address": "36 W 26th St, Flatiron, New York, NY 10010",
+        "base_name": "Hanjan",
+        "categories": [
+            "Korean"
+        ],
+        "id": "hanjan-new-york",
+        "name": "Hanjan",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 280
+    },
+    {
+        "address": "9 Great Jones St, NoHo, New York, NY 10012",
+        "base_name": "Acme",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "acme-new-york",
+        "name": "Acme",
+        "neighborhoods": [
+            "NoHo"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 309
+    },
+    {
+        "address": "235 W 48th St, Theater District, New York, NY 10036",
+        "base_name": "La Masseria",
+        "categories": [
+            "Italian",
+            "Desserts",
+            "Salad"
+        ],
+        "id": "la-masseria-new-york-3",
+        "name": "La Masseria",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 392
+    },
+    {
+        "address": "900 Broadway, Flatiron, New York, NY 10003",
+        "base_name": "Craftbar",
+        "categories": [
+            "American (New)",
+            "Breakfast & Brunch",
+            "American (Traditional)"
+        ],
+        "id": "craftbar-new-york",
+        "name": "Craftbar",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 793
+    },
+    {
+        "address": "Fort Tryon Park, 1 Margaret Corbin Dr, Washington Heights, New York, NY 10040",
+        "base_name": "New Leaf Restaurant & Bar",
+        "categories": [
+            "Bars",
+            "American (New)"
+        ],
+        "id": "new-leaf-restaurant-and-bar-new-york-3",
+        "name": "New Leaf Restaurant & Bar",
+        "neighborhoods": [
+            "Washington Heights"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 370
+    },
+    {
+        "address": "200 5th Ave, Flatiron, New York, NY 10010",
+        "base_name": "Baita at La Birreria",
+        "categories": [
+            "Italian"
+        ],
+        "id": "baita-at-la-birreria-new-york",
+        "name": "Baita At La Birreria",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$",
+        "rating": 3.0,
+        "review_count": 65
+    },
+    {
+        "address": "264 Bleecker St, West Village, New York, NY 10014",
+        "base_name": "Murray's Cheese Bar",
+        "categories": [
+            "American (New)",
+            "Wine Bars"
+        ],
+        "id": "murrays-cheese-bar-new-york",
+        "name": "Murray's Cheese Bar",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 500
+    },
+    {
+        "address": "2 E 61st St, Upper East Side, New York, NY 10065",
+        "base_name": "Perrine",
+        "categories": [
+            "American (New)",
+            "French"
+        ],
+        "id": "perrine-new-york-2",
+        "name": "Perrine",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 9
+    },
+    {
+        "address": "4610 Center Blvd, Hunters Point, Long Island City, NY 11109",
+        "base_name": "Maiella",
+        "categories": [
+            "Italian",
+            "Seafood",
+            "Breakfast & Brunch"
+        ],
+        "id": "maiella-long-island-city",
+        "name": "Maiella",
+        "neighborhoods": [
+            "Hunters Point"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 324
+    },
+    {
+        "address": "52 Irving Pl, Flatiron, New York, NY 10003",
+        "base_name": "Casa Mono & Bar Jam\u00f3n",
+        "categories": [
+            "Spanish",
+            "Tapas Bars",
+            "Basque"
+        ],
+        "id": "casa-mono-new-york",
+        "name": "Casa Mono",
+        "neighborhoods": [
+            "Flatiron",
+            "Union Square",
+            "Gramercy"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 1020
+    },
+    {
+        "address": "35 W 20th St, Flatiron, New York, NY 10011",
+        "base_name": "Periyali",
+        "categories": [
+            "Greek"
+        ],
+        "id": "periyali-new-york",
+        "name": "Periyali",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 182
+    },
+    {
+        "address": "89 E 42nd St, Midtown East, New York, NY 10017",
+        "base_name": "Cipriani Dolci",
+        "categories": [
+            "Italian"
+        ],
+        "id": "cipriani-dolci-new-york",
+        "name": "Cipriani Dolci",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 160
+    },
+    {
+        "address": "145 W 53rd St, Theater District, New York, NY 10019",
+        "base_name": "Remi Restaurant",
+        "categories": [
+            "Italian",
+            "Wine Bars",
+            "Gluten-Free"
+        ],
+        "id": "remi-new-york-2",
+        "name": "Remi",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 215
+    },
+    {
+        "address": "The Ritz-Carlton New York, Battery Park, Two West Street, Battery Park, New York, NY 10004",
+        "base_name": "2 West",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "2west-new-york",
+        "name": "2West",
+        "neighborhoods": [
+            "Battery Park"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 53
+    },
+    {
+        "address": "1354 1st Ave, Upper East Side, New York, NY 10021",
+        "base_name": "Nino's Restaurant",
+        "categories": [
+            "Italian"
+        ],
+        "id": "ninos-restaurant-new-york",
+        "name": "Nino's Restaurant",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 179
+    },
+    {
+        "address": "41-17 Crescent Street, Long Island City, Long Island City, NY 11101",
+        "base_name": "Oro",
+        "categories": [
+            "Cocktail Bars",
+            "Italian",
+            "Lounges"
+        ],
+        "id": "oro-restaurant-and-lounge-long-island-city",
+        "name": "Oro Restaurant & Lounge",
+        "neighborhoods": [
+            "Long Island City"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 46
+    },
+    {
+        "address": "169 9th Ave, Chelsea, New York, NY 10011",
+        "base_name": "Bocca Di Bacco\u2014Chelsea",
+        "categories": [
+            "Italian"
+        ],
+        "id": "bocca-di-bacco-new-york-4",
+        "name": "Bocca Di Bacco",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 113
+    },
+    {
+        "address": "17 E 48th St, Midtown East, New York, NY 10017",
+        "base_name": "Hatsuhana Sushi Restaurant",
+        "categories": [
+            "Japanese",
+            "Sushi Bars"
+        ],
+        "id": "hatsuhana-sushi-restaurant-new-york",
+        "name": "Hatsuhana Sushi Restaurant",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 883
+    },
+    {
+        "address": "355 W 46th St, Theater District, New York, NY 10036",
+        "base_name": "Becco",
+        "categories": [
+            "Italian"
+        ],
+        "id": "becco-new-york-4",
+        "name": "Becco",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 1993
+    },
+    {
+        "address": "40 Broad St, 2nd Fl, Financial District, New York, NY 10004",
+        "base_name": "Reserve Cut",
+        "categories": [
+            "Steakhouses",
+            "Kosher",
+            "Asian Fusion"
+        ],
+        "id": "reserve-cut-new-york",
+        "name": "Reserve Cut",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 141
+    },
+    {
+        "address": "635 9th Ave, Midtown West, New York, NY 10036",
+        "base_name": "Bocca Di Bacco\u2014Theatre District",
+        "categories": [
+            "Italian"
+        ],
+        "id": "bocca-di-bacco-new-york-5",
+        "name": "Bocca Di Bacco",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$",
+        "rating": 3.5,
+        "review_count": 128
+    },
+    {
+        "address": "1695 2nd Ave, Upper East Side, New York, NY 10128",
+        "base_name": "Caf\u00e9 D'Alsace",
+        "categories": [
+            "French",
+            "Breakfast & Brunch",
+            "Dinner Theater"
+        ],
+        "id": "cafe-d-alsace-new-york",
+        "name": "Cafe D'Alsace",
+        "neighborhoods": [
+            "Upper East Side",
+            "Yorkville"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 856
+    },
+    {
+        "address": "155 E 52nd St, Midtown East, New York, NY 10022",
+        "base_name": "Restaurant Nippon",
+        "categories": [
+            "Sushi Bars",
+            "Japanese"
+        ],
+        "id": "nippon-new-york",
+        "name": "Nippon",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 130
+    },
+    {
+        "address": "261 Water St, Financial District, New York, NY 10038",
+        "base_name": "MarkJoseph Steakhouse",
+        "categories": [
+            "Steakhouses"
+        ],
+        "id": "markjoseph-steakhouse-new-york-2",
+        "name": "MarkJoseph Steakhouse",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$$",
+        "rating": 4.0,
+        "review_count": 278
+    },
+    {
+        "address": "190 Ave B, East Village, New York, NY 10009",
+        "base_name": "Kingsley",
+        "categories": [
+            "American (New)",
+            "French",
+            "Bars"
+        ],
+        "id": "kingsley-new-york-2",
+        "name": "Kingsley",
+        "neighborhoods": [
+            "East Village",
+            "Alphabet City"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 53
+    },
+    {
+        "address": "17 W 19th St, Flatiron, New York, NY 10011",
+        "base_name": "Zio Ristorante",
+        "categories": [
+            "Italian"
+        ],
+        "id": "zio-ristorante-new-york",
+        "name": "Zio Ristorante",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 193
+    },
+    {
+        "address": "30 E 20th St, Flatiron, New York, NY 10003",
+        "base_name": "Le Coq Rico",
+        "categories": [
+            "Brasseries"
+        ],
+        "id": "le-coq-rico-new-york",
+        "name": "Le Coq Rico",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 125
+    },
+    {
+        "address": "1032 Lexington Ave, Upper East Side, New York, NY 10021",
+        "base_name": "Arlington Club",
+        "categories": [
+            "Steakhouses",
+            "Sushi Bars",
+            "American (New)"
+        ],
+        "id": "arlington-club-new-york-2",
+        "name": "Arlington Club",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$$",
+        "rating": 3.0,
+        "review_count": 200
+    },
+    {
+        "address": "120 W 45th St, Theater District, New York, NY 10036",
+        "base_name": "Bobby Van's Steakhouse - East 54th Street",
+        "categories": [
+            "Steakhouses",
+            "Seafood",
+            "American (Traditional)"
+        ],
+        "id": "bobby-vans-steakhouse-new-york-12",
+        "name": "Bobby Van's Steakhouse",
+        "neighborhoods": [
+            "Theater District",
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 140
+    },
+    {
+        "address": "50 W 77th St, Upper West Side, New York, NY 10024",
+        "base_name": "Scaletta Ristorante",
+        "categories": [
+            "Italian"
+        ],
+        "id": "scaletta-ristorante-new-york-2",
+        "name": "Scaletta Ristorante",
+        "neighborhoods": [
+            "Upper West Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 61
+    },
+    {
+        "address": "1 W 59th St, Midtown West, New York, NY 10019",
+        "base_name": "Todd English Food Hall",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "todd-english-food-hall-new-york",
+        "name": "Todd English Food Hall",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 234
+    },
+    {
+        "address": "181 W 10th St, West Village, New York, NY 10014",
+        "base_name": "Bobo",
+        "categories": [
+            "American (New)",
+            "French",
+            "Bars"
+        ],
+        "id": "bobo-new-york",
+        "name": "BOBO",
+        "neighborhoods": [
+            "West Village"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 381
+    },
+    {
+        "address": "2357 Arthur Ave, Belmont, Bronx, NY 10458",
+        "base_name": "Zero Otto Nove",
+        "categories": [
+            "Italian",
+            "Pizza"
+        ],
+        "id": "trattoria-zero-otto-nove-bronx",
+        "name": "Trattoria Zero Otto Nove",
+        "neighborhoods": [
+            "Belmont"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 486
+    },
+    {
+        "address": "155 E 55th St, Midtown East, New York, NY 10022",
+        "base_name": "Shun Lee Palace",
+        "categories": [
+            "Chinese"
+        ],
+        "id": "shun-lee-palace-new-york",
+        "name": "Shun Lee Palace",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 207
+    },
+    {
+        "address": "85 W Broadway, TriBeCa, New York, NY 10007",
+        "base_name": "Little Park",
+        "categories": [
+            "American (New)",
+            "Seafood",
+            "Salad"
+        ],
+        "id": "little-park-new-york",
+        "name": "Little Park",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 223
+    },
+    {
+        "address": "402 W 43rd St, Midtown West, New York, NY 10036",
+        "base_name": "Esca",
+        "categories": [
+            "Italian"
+        ],
+        "id": "esca-new-york",
+        "name": "Esca",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$$",
+        "rating": 3.5,
+        "review_count": 546
+    },
+    {
+        "address": "1 Wall St Ct, Financial District, New York, NY 10005",
+        "base_name": "Fino Ristorante Italiano",
+        "categories": [
+            "Italian"
+        ],
+        "id": "fino-wall-street-new-york",
+        "name": "Fino Wall Street",
+        "neighborhoods": [
+            "Financial District"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 47
+    },
+    {
+        "address": "211 W Broadway, TriBeCa, New York, NY 10013",
+        "base_name": "Distilled NY",
+        "categories": [
+            "American (New)",
+            "Bars",
+            "Breakfast & Brunch"
+        ],
+        "id": "distilled-new-york",
+        "name": "Distilled",
+        "neighborhoods": [
+            "TriBeCa"
+        ],
+        "price": "$$",
+        "rating": 4.0,
+        "review_count": 561
+    },
+    {
+        "address": "863 9th Ave, Midtown West, New York, NY 10019",
+        "base_name": "Bello Restaurant",
+        "categories": [
+            "Italian",
+            "Comfort Food",
+            "Wine Bars"
+        ],
+        "id": "bello-restaurant-new-york",
+        "name": "Bello Restaurant",
+        "neighborhoods": [
+            "Midtown West",
+            "Hell's Kitchen"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 130
+    },
+    {
+        "address": "190 7th Ave, Chelsea, New York, NY 10011",
+        "base_name": "Eolo: Seasonal Sicilian Kitchen",
+        "categories": [
+            "Italian",
+            "Wine Bars",
+            "Gluten-Free"
+        ],
+        "id": "eolo-seasonal-sicilian-kitchen-new-york",
+        "name": "Eolo: Seasonal Sicilian Kitchen",
+        "neighborhoods": [
+            "Chelsea"
+        ],
+        "price": "$$$",
+        "rating": 3.0,
+        "review_count": 167
+    },
+    {
+        "address": "132 East 61st St, Upper East Side, New York, NY 10065",
+        "base_name": "Maison Hugo",
+        "categories": [
+            "French",
+            "Bars",
+            "Cafes"
+        ],
+        "id": "maison-hugo-new-york",
+        "name": "Maison Hugo",
+        "neighborhoods": [
+            "Upper East Side"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 34
+    },
+    {
+        "address": "24 E 21st St, Flatiron, New York, NY 10010",
+        "base_name": "Almayass",
+        "categories": [
+            "Mediterranean",
+            "Armenian",
+            "Middle Eastern"
+        ],
+        "id": "almayass-new-york-4",
+        "name": "Almayass",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 4.5,
+        "review_count": 287
+    },
+    {
+        "address": "25 Cooper Sq, East Village, New York, NY 10003",
+        "base_name": "Narcissa",
+        "categories": [
+            "American (New)"
+        ],
+        "id": "narcissa-new-york",
+        "name": "Narcissa",
+        "neighborhoods": [
+            "East Village"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 346
+    },
+    {
+        "address": "214 E 49th St, Midtown East, New York, NY 10017",
+        "base_name": "Da Noi - Midtown Manhattan",
+        "categories": [
+            "Italian",
+            "Venues & Event Spaces"
+        ],
+        "id": "da-noi-new-york-4",
+        "name": "Da Noi",
+        "neighborhoods": [
+            "Midtown East"
+        ],
+        "price": "$$$",
+        "rating": 4.0,
+        "review_count": 91
+    },
+    {
+        "address": "39 E 19th St, Flatiron, New York, NY 10003",
+        "base_name": "Bocca Restaurant & Bar",
+        "categories": [
+            "Italian",
+            "Lounges"
+        ],
+        "id": "bocca-restaurant-and-bar-new-york",
+        "name": "Bocca Restaurant & Bar",
+        "neighborhoods": [
+            "Flatiron"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 273
+    },
+    {
+        "address": "117 W 58th St, Midtown West, New York, NY 10019",
+        "base_name": "Nino's Tuscany Steakhouse",
+        "categories": [
+            "Italian"
+        ],
+        "id": "ninos-tuscany-steakhouse-new-york",
+        "name": "Nino's Tuscany Steakhouse",
+        "neighborhoods": [
+            "Midtown West"
+        ],
+        "price": "$$$",
+        "rating": 3.5,
+        "review_count": 141
+    }
+]
