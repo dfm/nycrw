@@ -14,13 +14,13 @@ from yelp.oauth1_authenticator import Oauth1Authenticator
 
 __all__ = []
 
-with open("config_secret.json", "r") as f:
+with open("yelp.secret.json", "r") as f:
     creds = json.load(f)
 auth = Oauth1Authenticator(**creds)
 client = Client(auth)
 
 with open("data/names.txt", "r") as f:
-    names = f.read().splitlines()
+    names = [line.split("\t")[0] for line in f]
 
 listings = []
 for base_name in tqdm.tqdm(names):
@@ -57,5 +57,5 @@ for base_name in tqdm.tqdm(names):
     # Pause a bit - no need to overdo it!
     time.sleep(0.5 * random.random())
 
-with open("data/match.json", "w") as f:
+with open("data/match.yelp.json", "w") as f:
     json.dump(listings, f, sort_keys=True, indent=4, separators=(',', ': '))

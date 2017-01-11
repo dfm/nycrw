@@ -9,5 +9,7 @@ with open("data/raw.html", "r") as f:
     soup = BeautifulSoup(f, 'html.parser')
 
 with open("data/names.txt", "w") as f:
-    for el in soup.find_all("a", {"class": "card-link"}):
-        f.write(el.text + "\n")
+    for card in soup.find_all("div", {"class": "card-body"}):
+        for name, meals in zip(card.find_all("h3", {"class": "card-title"}),
+                               card.find_all("small", {"class": "meals"})):
+            f.write(name.text + "\t" + meals.text + "\n")
